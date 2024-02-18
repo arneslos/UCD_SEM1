@@ -91,12 +91,7 @@ gezocht moet worden. In de middenconsole zijn er bij de meeste fabrikanten ook k
 aanwezig. Vaak zit hier ook de knop om de wagen te starten, een gear selector en een
 handrem, dit kan een knop zijn of een hendel. 
 
-![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/88b8b6a3-233e-4fbb-8c17-cd817d47e3d0) ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/0820dff3-4afd-4f14-9408-f4e671c19aea)
-
-
-
-
-
+![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/88b8b6a3-233e-4fbb-8c17-cd817d47e3d0)![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/0820dff3-4afd-4f14-9408-f4e671c19aea)
 
 De interviews werden afgenomen om beter te begrijpen wat de bestuurder belangrijk vindt in
 een wagen, welke problemen er voorkomen en waarom deze er zijn. De veiligheidsfuncties

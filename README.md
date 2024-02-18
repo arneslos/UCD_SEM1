@@ -183,7 +183,7 @@ elk een verschillende layout maar beshikken over dezelfde functies bij benchmark
 bepaald. Het enige grote verschil tussen beide opstellingen is dat er bij concept één gebruik
 gemaakt word van een draaiknop en bij concept twee knoppen om het volume te verhogen.
 
-![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/726627ac-d046-4e1f-8918-09e73b7917ec)![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/8a44eec8-ab73-4c31-92c5-9e2863097877)
+![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/726627ac-d046-4e1f-8918-09e73b7917ec) ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/79c66e82-f24b-4365-a45e-614a7639b413)
 
 Om de gebuiker kennis te laten maken met de prototypes mag deze verschillende knoppen
 aanwijzen en hier de functie van bepalen. Daarna word dit gecontroleerd en word er bekend

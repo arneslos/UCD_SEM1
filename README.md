@@ -42,19 +42,9 @@ In de negende fase wordt de PRD verder uitgewerkt met de nieuwe informatie na he
 De tiende fase dient om te bekijken hoe het concept getest kan worden.
 In de elfde fase wordt het finaal concept getest.
 
-fase	action	outcome
-1	define the problem statement	De aanwezigheid van aanraakschermen in wagens zorgt voor afleidingen. 
-2	collect information	Interviews, benchmarking, literature review en design ethnography (shadowing) afnemen
-3	analyse information	Interviews, benchmarking, literature review en design ethnography (shadowing) interpreteren
-4	reformulate the problem statement	Het gebruiken van aanraakschermen tijdens het rijden is gevaarlijk omdat het voor afleiding zorgt en de aandacht voor de weg verminderd.
-5	define first design requirements	Opstarten van een PRD (nog niet gedetaileerd).
-6	generate ideas	Ideeen genereren op verschillende manieren.
-7	develop ideas	De sterkste ideeen/ concepten uitkiezen om verder uit te werken
-8	choose concept	Een ‘finaal’ concept kiezen, in dit geval: de interacties in een wagen laten verlopen met knoppen en een HUD, een aanraakscherm dat wegklapt al de wagen rijdt.
+![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/60eb584d-cea4-4917-9a44-b1ac93a384aa)
 
-9	define secondarydesign requirements	De PRD verder uitwerken zodat deze beter aansluit bij het gekozen concept.
-10	detailed development of concept	Kiezen hoe de concepten gemaakt en getest kunnen worden.
-11	testing concepts against design requirements	De concepten testen
+![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/17846809-09f6-46c9-b580-38bdf3dc47d9)
 
 
 ## Discovery

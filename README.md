@@ -143,9 +143,11 @@ is er ook een feedback die de bestuurder krijgt tijdens het bedienen van de func
 ### Doestellingen
 In de definition fase van het dashboard design worden twee aspecten van het nieuwe
 dashboard onderzocht:
-● Volgens welke indeling moet de informatie op ons HUD geprojecteerd worden?
-● Welke configuratie van aanraakscherm en knoppen is het snelst in gebruik volgens de
+
+- Volgens welke indeling moet de informatie op ons HUD geprojecteerd worden?
+- Welke configuratie van aanraakscherm en knoppen is het snelst in gebruik volgens de
 gebruiksnoden?
+
 Het doel is om zo een duidelijk overzicht te hebben van de belangrijkste informatie die moet
 geprojecteerd worden op het Heads Up Display. Hierbij is het noodzakelijk dat de informatie
 overzichtelijk en beperkt is, maar toch voldoende om niet steeds op zoek te moeten gaan naar

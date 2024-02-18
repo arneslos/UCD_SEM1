@@ -229,18 +229,37 @@ zetelverwarming of verwarmd stuur kunnen bediend worden aan de hand van het
 aanraakscherm of spraakherkenning.
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+
+● Plaat plexiglas om een heads up display te maken
+● Knoppen voor de programmeerbare functies
+● Spraak sensor om de stembediening te doen werken
+● ProtoPie
+● Aanraakscherm (ipad of gsm)
+● Arduino om input van knoppen te verwerken
+● Een materiaal om vorm te geven aan het dashboard
+● Display om HUD te projecteren op plexiplaat (GSM)
+● Eventueel stuur om de stuurknoppen te simuleren
 
 ## Kritische reflectie
-Max. 500 woorden
+Tijdens het uitvoeren van dit onderzoek werd er kennis gemaakt met nieuwe
+onderzoeksmethoden zoals design ethnography en wizard of Oz. Ook eerder aangeleerde
+technieken zoals literatuur review en interviews zijn toegepast.
+Na het samenvoegen van beide vooronderzoeken, waar het ene onderzoek een
+interviewtechniek en het andere een design ethnography had toegepast viel het op dat de er
+gelijkaardige resultaten bekomen waren. Bij een interview denkt de persoon na over een
+antwoord. Het is bewust, de persoon denkt niet of juist te veel na over details in de
+antwoorden. Bij een observatie worden heel wat onbewuste
+handelingen waargenomen waarover de persoon niet meer nadenkt. Interview geeft beter
+een gevoel van de gebruiker weer zoals welke knop vind je goed en waarom. Design
+ethnography is een observatie waarbij de hoeveelheid en hoe de knop gebruikt wordt
+waarneembaar wordt. Door de combinatie van de verschillende technieken ontstaat er een
+completer beeld.
+Met dit project is meer inzicht gekomen in de interviewtechniek. Het is niet voldoende om te
+vragen wat het probleem is. Door te blijven doorvragen waarom het probleem er is, wordt er
+meer inzicht over de oorzaak bekomen. Het probleem kan pas aangepakt worden als de
+oorzaak bekend is.
+Door de individueel onderzoeken samen te voegen ontstonden er meer invalshoeken over het
+concept hierdoor kwamen er ook meer bevestiging van de gekozen oplossingen/ concept. 
 
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.

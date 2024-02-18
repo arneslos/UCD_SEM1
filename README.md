@@ -15,9 +15,18 @@ De oplossing in deze studie is een dashboard waarbij het scherm verdwijnt en dus
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/f0900578-0675-4d05-a614-5c61481174c1)
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
+Uit een Britse studie (Nws, 2021b) blijkt dat schermen in het verkeer voor afleiding zorgen en dat het reactievermogen van een bestuurder hierdoor tot wel 3 keer trager is dan het reactievermogen van een dronken bestuurder. Dit komt doordat de bestuurder op dat moment niet naar de omgeving kijkt, maar zijn of haar ogen gericht zijn op de schermen in de auto. Een mogelijke oplossing is alle schermen in de auto die niet in het directe gezichtsveld van de bestuurder zijn, te verwijderen, met behoud van toegankelijkheid van alle functies.
+
+Moderne auto's maken steeds minder gebruik van fysieke knoppen om functies aan te sturen, deze worden vervangen door een scherm met verschillende functies. Door deze schermen te verwijderen, moeten we een alternatieve manier vinden om deze functies aan te sturen.
+
+We volgen een vooraf bepaalde tijdlijn met vier verschillende fases. Binnen deze fases zullen we zowel divergeren als convergeren. We adresseren verschillende problemen die zich voordoen met schermen en halen hieruit de meest noodzakelijke factoren om een diepgaande "how might we" vraag te formuleren. Aan de hand van deze "how might we" vraag bedenken we verschillende oplossingen en geven we vorm aan enkele ideeën met prototypes.
+
+Aan het einde van dit eerste onderzoek streven we ernaar, aan de hand van deze prototypes, een eerste idee te hebben van hoe ons eindproduct eruit zou zien en waarom.
+
+Het doel van dit eindonderzoek is het creëren van een simulatie van een veilige en aangename rijervaring, waarbij de reactiesnelheid van de bestuurder niet wordt verzwakt door de aanwezige technologie.
+
+Dit onderzoek wordt uitgevoerd aan de UGent te Kortrijk in samenwerking met Granstudio.
+
 
 ## Methdologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.

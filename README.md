@@ -161,7 +161,8 @@ weergegeven moeten worden. Om de ideale lay-out te testen wordt in een wagen al 
 schermen afgedekt en wordt de lay-out met papier op de voorruit geplakt. Op deze manier kan
 de bestuurder beter begrijpen hoe de lay-out werkt en kan opmerkingen meegeven.
 
-![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/a3d99b2e-aecf-4ee0-8fab-22de31ca4b8b)! [image](https://github.com/arneslos/UCD_SEM1/assets/159801398/29571fcd-5921-4764-9b34-eab3a2126fd1)
+![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/a3d99b2e-aecf-4ee0-8fab-22de31ca4b8b)![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/3da2839f-04ae-4302-97af-36077910331d)
+
 
 De eerste lay-out heeft aan de linkerkant een kaart voor navigatie met daarboven de snelheid
 die de wagen rijdt en de richtingaanwijzers. Onder de kaart is het uur te vinden met daarnaast

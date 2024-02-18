@@ -243,15 +243,15 @@ aanraakscherm of spraakherkenning.
 
 ## Bill of materials
 
-● Plaat plexiglas om een heads up display te maken
-● Knoppen voor de programmeerbare functies
-● Spraak sensor om de stembediening te doen werken
-● ProtoPie
-● Aanraakscherm (ipad of gsm)
-● Arduino om input van knoppen te verwerken
-● Een materiaal om vorm te geven aan het dashboard
-● Display om HUD te projecteren op plexiplaat (GSM)
-● Eventueel stuur om de stuurknoppen te simuleren
+- Plaat plexiglas om een heads up display te maken
+- Knoppen voor de programmeerbare functies
+- Spraak sensor om de stembediening te doen werken
+- ProtoPie
+- Aanraakscherm (ipad of gsm)
+- Arduino om input van knoppen te verwerken
+- Een materiaal om vorm te geven aan het dashboard
+- Display om HUD te projecteren op plexiplaat (GSM)
+- Eventueel stuur om de stuurknoppen te simuleren
 
 ## Kritische reflectie
 Tijdens het uitvoeren van dit onderzoek werd er kennis gemaakt met nieuwe

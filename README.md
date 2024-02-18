@@ -48,11 +48,21 @@ In de elfde fase wordt het finaal concept getest.
 
 
 ## Discovery
-Max. 1000 woorden
-### Doestellingen
-Wat wilde je bereiken?
+### Doelstellingen
+Aan de hand van verschillende onderzoeksmethoden zoals interviews, design ethnography (shadowing) en benchmarking werden volgende zaken onderzocht:
+- Waarom zijn schermen in het verkeer gevaarlijk?
+- Wat zijn de gebruiksnoden van een bestuurder tijdens het rijden?
+- Welke technologieën zijn er nu op de markt om de gevaren van schermen te verminderen?
+
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+Om de problemen van gebruikers vast te stellen zijn er gebruikers geinterviewd, artikels opgezocht (literature review) en een design ethnography uitgevoerd (bijlage 2). Om te vergelijken wat er al op de markt is, is er een benchmark studie opgezet. De interviews en design ethnography werden elk bij twee personen afgenomen.
+
+Bij het benchmark onderzoek werd er gekeken naar het dashboard die nu op de markt zijn van verschillende autofabrikanten. Er werd ook gekeken naar hoe de functies aangestuurd worden in deze interieurs.
+
+Het doel van de interviews was om te achterhalen met welke problemen van afleiding en gebruiksgemak de bestuurder te maken krijgt. Dit gebeurde aan de hand van acht vragen die de personen moesten beantwoorden. De antwoorden werden rechtstreeks genoteerd en herhaald naar de geïnterviewde, op deze manier was er nog een mogelijkheid om hun antwoord te verbeteren/ te corrigeren.
+
+Via design ethnography werd er onderzocht welke functies de bestuurder het vaakst gebruikt en hoe de bestuurder deze functies gebruikt. Dit gebeurde door bij twee personen in de wagen te stappen en een rit uit te voeren. Tijdens deze rit werd er niet met de bestuurder gecommuniceerd. De rit begon en eindigde in een willekeurig punt. De routebeschrijving gebeurde aan de hand van het navigatiesysteem in de wagen. Er werd gebruik gemaakt van een smartphone om de testrit te filmen, zodat de resultaten achteraf nog gebruikbaar zijn om te onderzoeken.
+
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties

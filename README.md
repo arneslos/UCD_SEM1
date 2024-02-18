@@ -29,7 +29,33 @@ Dit onderzoek wordt uitgevoerd aan de UGent te Kortrijk in samenwerking met Gran
 
 
 ## Methdologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
+De toegepaste methodologie is gebaseerd op Roozenburg & Eekels (1995). 
+Deze methodologie bestaat uit een aantal fasen. Tijdens de eerste fase wordt het probleem gedefinieerd. In dit onderzoek is het probleem: de aanwezigheid van aanraakschermen in wagens zorgt voor afleidingen. 
+Gedurende de tweede fase wordt er op verschillende manieren informatie verzameld. Tijdens deze fase in het onderzoek zijn er gebruiker interviews, een design ethnography, een benchmarkstudie en een literatuurstudie uitgevoerd. 
+In de derde fase wordt de informatie die verzameld is verwerkt. De antwoorden van het interview, opmerkingen bij het design ethnography worden geanalyseerd en omgezet naar potentiele verbeteteringen. 
+De vierde fase is de fase waarin het probleem wordt geherdefinieerd aan de hand van de bekomen informatie. In het geval van dit project werd de geherdefinieerde probleemstelling: het gebruiken van aanraakschermen tijdens het rijden is gevaarlijk omdat het voor afleiding zorgt en de aandacht voor de weg verminderd. 
+In de vijfde fase wordt er een programma van eisen opgesteld. In dit programma van eisen worden al de specificaties van het uiteindelijke product vastgelegd, dit gebeurde aan de hand van een PRD (Product Requirements Document) (bijlage 1).
+De zesde fase is de idee generatie fase, hier worden al de mogelijke ideeën verzameld, deze ideeën kunnen van heel eenvoudig tot onmogelijk zijn. De vereiste is dat de ideeën een oplossing zijn voor het probleem. Dit gebeurde door verschillende dingen neer te schrijven en door schetsen te maken.
+In de zevende fase worden er uit de gegenereerde oplossingen een paar gekozen met veel potentieel. Deze worden een verder uitgewerkt om de interessantste en haalbare oplossingen te kunnen selecteren.
+In de achtste fase wordt er één concept gekozen als de oplossing. Deze wordt dan volledig uitgewerkt. In het geval van dit concept: een dashboard met een scherm dat wegklapt als de wagen begint met rijden.  Op dit moment wordt al de essentiële informatie op de voorruit geprojecteerd met een heads up display systeem. Er zijn enkele programmeerbare knoppen aanwezig om zelfgekozen functies te bedienen.
+In de negende fase wordt de PRD verder uitgewerkt met de nieuwe informatie na het vastleggen van het concept.
+De tiende fase dient om te bekijken hoe het concept getest kan worden.
+In de elfde fase wordt het finaal concept getest.
+
+fase	action	outcome
+1	define the problem statement	De aanwezigheid van aanraakschermen in wagens zorgt voor afleidingen. 
+2	collect information	Interviews, benchmarking, literature review en design ethnography (shadowing) afnemen
+3	analyse information	Interviews, benchmarking, literature review en design ethnography (shadowing) interpreteren
+4	reformulate the problem statement	Het gebruiken van aanraakschermen tijdens het rijden is gevaarlijk omdat het voor afleiding zorgt en de aandacht voor de weg verminderd.
+5	define first design requirements	Opstarten van een PRD (nog niet gedetaileerd).
+6	generate ideas	Ideeen genereren op verschillende manieren.
+7	develop ideas	De sterkste ideeen/ concepten uitkiezen om verder uit te werken
+8	choose concept	Een ‘finaal’ concept kiezen, in dit geval: de interacties in een wagen laten verlopen met knoppen en een HUD, een aanraakscherm dat wegklapt al de wagen rijdt.
+
+9	define secondarydesign requirements	De PRD verder uitwerken zodat deze beter aansluit bij het gekozen concept.
+10	detailed development of concept	Kiezen hoe de concepten gemaakt en getest kunnen worden.
+11	testing concepts against design requirements	De concepten testen
+
 
 ## Discovery
 Max. 1000 woorden

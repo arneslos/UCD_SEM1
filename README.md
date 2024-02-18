@@ -64,6 +64,46 @@ Het doel van de interviews was om te achterhalen met welke problemen van afleidi
 Via design ethnography werd er onderzocht welke functies de bestuurder het vaakst gebruikt en hoe de bestuurder deze functies gebruikt. Dit gebeurde door bij twee personen in de wagen te stappen en een rit uit te voeren. Tijdens deze rit werd er niet met de bestuurder gecommuniceerd. De rit begon en eindigde in een willekeurig punt. De routebeschrijving gebeurde aan de hand van het navigatiesysteem in de wagen. Er werd gebruik gemaakt van een smartphone om de testrit te filmen, zodat de resultaten achteraf nog gebruikbaar zijn om te onderzoeken.
 
 ### Resultaten
+Voor de literatuurstudie zijn er negen artikels en video’s gevonden die de gevaren van
+schermen in wagens bespreken. Van de negen artikels is er één artikel die de stelling
+“Schermen in wagens zijn slecht!” in vraag stelt. Een ander artikel ging over het feit dat
+schermen niet de enige bron van afleiding zijn, maar dat de dingen die rondom de wagen
+gebeuren ook voor afleiding zorgen.
+Om te weten te komen hoe de huidige dashboards ingedeeld zijn werd er een
+benchmarkstudie uitgevoerd. Uit deze studie blijkt dat fabrikanten vaak gebruik maken van
+één groot scherm of meerdere kleine schermen. Deze schermen zijn meestal touchscreens,
+de functies zijn terug te vinden in meerdere menu’s. Onder de schermen zijn er meestal nog
+knoppen aanwezig om bepaalde functies uit te voeren, zodat er niet telkens in de menu’s
+gezocht moet worden. In de middenconsole zijn er bij de meeste fabrikanten ook knoppen
+aanwezig. Vaak zit hier ook de knop om de wagen te starten, een gear selector en een
+handrem, dit kan een knop zijn of een hendel. 
+
+
+
+
+
+De interviews werden afgenomen om beter te begrijpen wat de bestuurder belangrijk vindt in
+een wagen, welke problemen er voorkomen en waarom deze er zijn. De veiligheidsfuncties
+worden als de belangrijste ervaren. Bijvoorbeeld: een waarschuwing geven als er een ander
+voertuig nadert. Op de tweede plaats kwamen functies die het rijden makkelijker maken, zoals
+cruise control en lane keeping aid. De bestuurders vonden de entertainmentfuncties zoals de
+radio of Android Auto/ Apple CarPlay om muziek af te spelen de nice to have functies. Ook de
+navigatieapp werd ervaren als een belangrijke functie. De bestuurders gaven aan dat de
+meeste afleiding ontstond bij het aanpassen van de entertainmentfuncties, het instellen van
+het navigatiesysteem en het veranderen van de muziek. De bestuurders ondervonden
+problemen bij functies die “een niveau dieper” in de menu’s zitten. Het gevolg hiervan is dat
+de bestuurder langer is afgeleid. Bij sommige wagens is er geen feedback als er een functie
+wordt aangklikt, dan moet de bestuurder naar het scherm of de knop kijken om te verifieren
+dat de gewenste functie actief wordt.
+Om te weten te komen hoe bestuurders de schermen in een wagen gebruiken werd er gebruik
+gemaakt van shadowing. De bestuurder werd geobserveerd terwijl deze rond reed via een
+parcours dat door de gps werd aangegeven. Tijdens deze observatie bleek dat de radio
+slechts één keer werd bediend bij het begin van de rit. Tijdens het rijden werd er een paar
+keer naar de gps gekeken en werd deze ook bediend, bijvoorbeeld in-/ uitzoomen. De
+meestgebruikte knop was die om het volume harder en zachter te zetten. Beide bestuurders
+maakten intensief gebruik van de middenconsole als opbergvak. 
+
+### Conclusies & implicaties 
 Uit het onderzoek kan geconcludeerd worden dat de afleidingen veroorzaakt worden door de
 schermen in een wagen te bedienen. De bestuurders hechten vooral veel belang aan een
 radio- en een navigatiesysteem. Deze moeten makkelijk en snel bedienbaar zijn. De navigatie
@@ -78,9 +118,8 @@ de bestuurder zal dit ervoor zorgen dat de bestuurder meer focus heeft op de weg
 scherm in een wagen wordt vaak gebruikt om de functies te bedienen. Als dit scherm niet
 meer aanwezig is moet er een andere manier aangebracht worden om deze functies te
 bedienen. Dit zal gebeuren aan de hand van programmeerbare knoppen. Door deze knoppen
-is er ook een feedback die de bestuurder krijgt tijdens het bedienen van de functies 
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+is er ook een feedback die de bestuurder krijgt tijdens het bedienen van de functies.
+
 
 ## Definition
 Max. 1000 woorden

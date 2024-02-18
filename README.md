@@ -166,14 +166,14 @@ weergegeven moeten worden. Om de ideale lay-out te testen wordt in een wagen al 
 schermen afgedekt en wordt de lay-out met papier op de voorruit geplakt. Op deze manier kan
 de bestuurder beter begrijpen hoe de lay-out werkt en kan opmerkingen meegeven.
 
-
-
+![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/a3d99b2e-aecf-4ee0-8fab-22de31ca4b8b)![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/29571fcd-5921-4764-9b34-eab3a2126fd1)
 
 De eerste lay-out heeft aan de linkerkant een kaart voor navigatie met daarboven de snelheid
 die de wagen rijdt en de richtingaanwijzers. Onder de kaart is het uur te vinden met daarnaast
 de afstand die de wagen nog kan rijden. Naast de kaart is de hoeveelheid brandstof te vinden.
 Aan de rechterkant staat de informatie over de radio/ muziek en daarboven verschijnen de
 meldingen over problemen met de wagen.
+
 Bij de tweede lay-out zijn de richtingaanwijzers aangegeven aan beide kanten van de voorruit.
 Bij deze lay-out is al de informatie meer verspreid over de ruit. Linksboven wordt de tijd
 aangegeven, rechtsboven de informatie over de radio en de afgespeelde muziek. Aan de
@@ -188,8 +188,7 @@ elk een verschillende layout maar beshikken over dezelfde functies bij benchmark
 bepaald. Het enige grote verschil tussen beide opstellingen is dat er bij concept één gebruik
 gemaakt word van een draaiknop en bij concept twee knoppen om het volume te verhogen.
 
-
-
+![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/726627ac-d046-4e1f-8918-09e73b7917ec)![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/8a44eec8-ab73-4c31-92c5-9e2863097877)
 
 Om de gebuiker kennis te laten maken met de prototypes mag deze verschillende knoppen
 aanwijzen en hier de functie van bepalen. Daarna word dit gecontroleerd en word er bekend
@@ -202,8 +201,7 @@ onderzoek werd de mening van de gebruiker gevraagd over welke opstelling er verk
 wordt en of er eventuele extra aanpassingen mogelijk zijn.
 
 ### Resultaten
-De twee lay-outs zijn getest in een wagen waarbij al de instrumenten zijn afgedekt en de layouts met papier op de ruit zijn geplakt. De bestuurder gaf dan aan welke aanduidingen er
-ontbraken of niet goed werden weergegeven.
+De twee lay-outs zijn getest in een wagen waarbij al de instrumenten zijn afgedekt en de layouts met papier op de ruit zijn geplakt. De bestuurder gaf dan aan welke aanduidingen er ontbraken of niet goed werden weergegeven.
 Testopstelling van lay-out 1
 De eerste opstelling die getest
 werd, had als opmerking dat er

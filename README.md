@@ -1,9 +1,9 @@
-# Projecttitel
-*Omschrijving van je concept in 1 zin* 
+# Car dashboard redesign
+Deze studie gaat over een vernieuwd dashboard ontwerp, die gebruik maakt van spraakherkenning, bedieningsknoppen, HUD (head-up-display) en een touchscreen dat wegklapt wanneer het voertuig in beweging komt.
 
-*Projectteam: Naam 1; Naam 2*
+*Projectteam: Viktor Coopman, Arne Slos*
 
-Datum
+2023 - 2024
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:

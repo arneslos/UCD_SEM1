@@ -64,7 +64,21 @@ Het doel van de interviews was om te achterhalen met welke problemen van afleidi
 Via design ethnography werd er onderzocht welke functies de bestuurder het vaakst gebruikt en hoe de bestuurder deze functies gebruikt. Dit gebeurde door bij twee personen in de wagen te stappen en een rit uit te voeren. Tijdens deze rit werd er niet met de bestuurder gecommuniceerd. De rit begon en eindigde in een willekeurig punt. De routebeschrijving gebeurde aan de hand van het navigatiesysteem in de wagen. Er werd gebruik gemaakt van een smartphone om de testrit te filmen, zodat de resultaten achteraf nog gebruikbaar zijn om te onderzoeken.
 
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+Uit het onderzoek kan geconcludeerd worden dat de afleidingen veroorzaakt worden door de
+schermen in een wagen te bedienen. De bestuurders hechten vooral veel belang aan een
+radio- en een navigatiesysteem. Deze moeten makkelijk en snel bedienbaar zijn. De navigatie
+wordt vaak voor vertrek ingesteld voor het vertrek. Op dat moment is het geen probleem om te
+werken met een scherm in het midden van de wagen. Vanaf het moment dat de wagen rijdt is
+dit wel een gevaar, dan wordt de bestuurder afgeleid. De schermen zijn dus niet alleen het
+gevaar, maar de plaats waar de informatie wordt weergegeven zorgt voor een grotere invloed
+op de afleiding. Dit probleem kan worden opgelost door het scherm te doen wegklappen of
+schuiven en de informatie te projecteren met een heads up display. Als de informatie met een
+groot heads up display op een eenvoudige en ordelijke manier kan worden weergegeven voor
+de bestuurder zal dit ervoor zorgen dat de bestuurder meer focus heeft op de weg. Het
+scherm in een wagen wordt vaak gebruikt om de functies te bedienen. Als dit scherm niet
+meer aanwezig is moet er een andere manier aangebracht worden om deze functies te
+bedienen. Dit zal gebeuren aan de hand van programmeerbare knoppen. Door deze knoppen
+is er ook een feedback die de bestuurder krijgt tijdens het bedienen van de functies 
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 

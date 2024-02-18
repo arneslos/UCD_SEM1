@@ -262,6 +262,10 @@ Door de individueel onderzoeken samen te voegen ontstonden er meer invalshoeken 
 concept hierdoor kwamen er ook meer bevestiging van de gekozen oplossingen/ concept. 
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+(Nws, 2021b) : Nws, V. (2021, 11 maart). Aanraakschermen in je auto bedienen drie keer
+gevaarlijker dan rijden onder invloed: “Europese regels nodig”. vrtnws.be.
+https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keergevaarlijker-dan-r/#:~:text=%2D%2D%3A%2D%2D-
+,Aanraakschermen%20in%20je%20auto%20bedienen%20drie%20keer%20gevaarlijker%20d
+an%20rijden,het%20risico%20op%20een%20ongeval.
 
 ## Bijlagen

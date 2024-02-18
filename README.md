@@ -122,15 +122,111 @@ is er ook een feedback die de bestuurder krijgt tijdens het bedienen van de func
 
 
 ## Definition
-Max. 1000 woorden
+
+
 ### Doestellingen
-Wat wilde je bereiken?
+In de definition fase van het dashboard design worden twee aspecten van het nieuwe
+dashboard onderzocht:
+● Volgens welke indeling moet de informatie op ons HUD geprojecteerd worden?
+● Welke configuratie van aanraakscherm en knoppen is het snelst in gebruik volgens de
+gebruiksnoden?
+Het doel is om zo een duidelijk overzicht te hebben van de belangrijkste informatie die moet
+geprojecteerd worden op het Heads Up Display. Hierbij is het noodzakelijk dat de informatie
+overzichtelijk en beperkt is, maar toch voldoende om niet steeds op zoek te moeten gaan naar
+verdere informatie.
+Ook werd er onderzocht op welke manier de interactie met het aanraakscherm, wanneer de
+wagen in stilstand is, op een zo vlot mogelijke manier kan gebeuren.
+
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+Om te onderzoeken hoe de lay-out van de heads up display ingedeeld moet worden zijn er
+twee lay-outs uitgewerkt. De informatie die op de heads up display wordt geprojecteeerd werd
+bepaald aan de hand van de volgende vraag uit het interview: wat is de belangrijkste
+informatie die moet aangegeven worden tijdens het rijden? De bestuurders ervaarden:
+snelheidsaanduiding, richting aanwijzers, de afstand die nog gereden kan worden, de
+hoeveelheid brandstof, de radio en muziek en de navigatie de belangrijkste zaken zijn die
+weergegeven moeten worden. Om de ideale lay-out te testen wordt in een wagen al de
+schermen afgedekt en wordt de lay-out met papier op de voorruit geplakt. Op deze manier kan
+de bestuurder beter begrijpen hoe de lay-out werkt en kan opmerkingen meegeven.
+
+
+
+
+De eerste lay-out heeft aan de linkerkant een kaart voor navigatie met daarboven de snelheid
+die de wagen rijdt en de richtingaanwijzers. Onder de kaart is het uur te vinden met daarnaast
+de afstand die de wagen nog kan rijden. Naast de kaart is de hoeveelheid brandstof te vinden.
+Aan de rechterkant staat de informatie over de radio/ muziek en daarboven verschijnen de
+meldingen over problemen met de wagen.
+Bij de tweede lay-out zijn de richtingaanwijzers aangegeven aan beide kanten van de voorruit.
+Bij deze lay-out is al de informatie meer verspreid over de ruit. Linksboven wordt de tijd
+aangegeven, rechtsboven de informatie over de radio en de afgespeelde muziek. Aan de
+onderkant zijn rechts de meldingen over de wagen weergegeven en link de hoeveelheid
+kilometers die nog gereden kunnen worden en de hoeveelheid brandstof er nog over is. In het
+midden van het scherm wordt de navigatie weergegeven aan de hand van een pijl die boven
+de weg zweeft en in de juiste richting wijst. Op deze pijl wordt ook de snelheid weergegeven.
+
+Om te onderzoeken op welke manier de standaard configuratie van het aanraakscherm en de
+knoppen wordt geconfigureert worden er twee prototypes gebruikt, deze prototypes hebben
+elk een verschillende layout maar beshikken over dezelfde functies bij benchmarking zijn
+bepaald. Het enige grote verschil tussen beide opstellingen is dat er bij concept één gebruik
+gemaakt word van een draaiknop en bij concept twee knoppen om het volume te verhogen.
+
+
+
+
+Om de gebuiker kennis te laten maken met de prototypes mag deze verschillende knoppen
+aanwijzen en hier de functie van bepalen. Daarna word dit gecontroleerd en word er bekend
+gemaakt of dit juist of fout was.
+Vervolgens wordt de gebruiker gevraagd om een bepaalde knop in te drukken of funcite te
+activeren. De tijd werd geregistreed. Dit werd voor bijde opstellingen getest.
+Deze tijdsindicaties geven een objectief beeld welke configuratie het snelst is bij gebruik en
+dus ook voor een kortere periode een verminderde aandacht geven. Op het einde van het
+onderzoek werd de mening van de gebruiker gevraagd over welke opstelling er verkozen
+wordt en of er eventuele extra aanpassingen mogelijk zijn.
+
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+De twee lay-outs zijn getest in een wagen waarbij al de instrumenten zijn afgedekt en de layouts met papier op de ruit zijn geplakt. De bestuurder gaf dan aan welke aanduidingen er
+ontbraken of niet goed werden weergegeven.
+Testopstelling van lay-out 1
+De eerste opstelling die getest
+werd, had als opmerking dat er
+geen plaats voorzien was voor een
+infotainment systeem om
+bijvoorbeeld Apple CarPlay op weer
+te geven. Ook werden zaken zoals
+de radio en de meldingen niet direct
+in het gezichtsveld en te klein
+weergegeven waardoor de
+bestuurder op zoek moet gaan
+waar deze zijn aangegeven.
+Testopstelling van lay-out 2
+De tweede opstelling gaf een betere
+gebruikservaring.
+Er is meer overzicht door al de
+Informatie naar de kanten van de ruit
+te plaatsen. De positie van de
+meldingen en van de radio/ muziek vond
+de bestuurder beter in de eerste opstelling.
+Hier was ook geen rekening gehouden
+met een plaats voor het infotainment
+systeem.
+Bij de beide opstellingen was er een opmerking dat de vakken waarin de informatie wordt
+weergegeven klein en moeilijk leesbaar zijn. Dit kan worden opgelost door de vakken waar de
+bestuurder in wil ‘werken’ tijdelijk centraal en groter te projecteren.
+Bij de resultaten van de twee cardboard prototypes is er tussen de verschillende functies geen
+significante verschillen waargenomen in tijd. Bij de volumeknop was er wel een significant
+verschil in gemeten tijd tussen een drukknop dan en een draaiknop.
+
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Om een goede en overzichtelijke heads up display te bekomen moet al de informatie op een
+overzichtelijke manier worden weergegeven. De oplossing is door de informatie bij niet
+begruik klein en aan de buitenkanten weer te geven. Op het moment dat de bestuurder een
+functie wil gebruiken wordt dit vak groter en komt centraal te staan.
+Om een vlotte configuratie van knoppen en aanraakscherm te bekomen is het belangrijk dat
+er een vaste draaiknop aanwezig is als volumeknop, uit het design ethnography onderzoek is
+gebleken dat dit een functie is die heel vaak gebruikt wordt. Andere functies zoals de airco en
+het aanpassen van de radio vergen ook vaste drukknoppen. Extra features zoals
+zetelverwarming of verwarmd stuur kunnen bediend worden aan de hand van het
+aanraakscherm of spraakherkenning.
 
 ## Bill of materials
 - Welk

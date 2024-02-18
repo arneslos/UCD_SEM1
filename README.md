@@ -7,7 +7,9 @@ Deze studie gaat over een vernieuwd dashboard ontwerp, die gebruik maakt van spr
 
 ## Samenvatting
 Bestuurders van wagens worden geconfronteerd met allerlei bedieningsfuncties tijdens het rijden. Deze kunnen een risico vormen omdat er minder aandacht gaat naar de weg en naar andere weggebruikers. Een groot deel van deze afleidingen worden veroorzaakt door schermen in de wagens. Deze zitten niet in het directe gezichtsveld van de bestuurder maar ergens in het midden van het dashboard. Daarbovenop is er de interactie via touch technologie, wat een extra afleiding kan geven omdat de bestuurder het stuur niet meer met beide handen vasthoudt. 
+
 Dit probleem is verder onderzocht. De gebruikte technieken zijn: design ethnography (shadowing) door de functies die het meest gebruikt worden te rangschikken, benchmarking met de SOTA te onderzoeken, een literature review en interviews.
+
 De oplossing in deze studie is een dashboard waarbij het scherm verdwijnt en dus onbruikbaar wordt wanneer de wagen begint met rijden. Al de essentiële zaken zoals snelheid, GPS, radio, … worden dan geprojecteerd over de voorruit met een heads up display. In de wagen zijn er acht programmeerbare knoppen aanwezig waarmee al de functies bediend kunnen worden. Hierdoor kan de bestuurder zich beter focussen op de weg en het verkeer. Eventuele bedieningen kunnen via het scherm (bij stilstand) of met spraakherkenning (tijdens het rijden).
 
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/f0900578-0675-4d05-a614-5c61481174c1)

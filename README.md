@@ -282,3 +282,11 @@ https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie
 an%20rijden,het%20risico%20op%20een%20ongeval.
 
 ## Bijlagen
+(Google drive):
+https://drive.google.com/drive/folders/1x8gPw4AJ5K4TxQPy2E_7yjYqFXD9Rf43?usp=sharing
+Figma:
+https://www.figma.com/file/UazHZrtgUNHXp7b5WrkCnB/Untitled?type=design&nodeid=0%3A1&mode=design&t=L9cifeomLyC9PtCw-1
+Miro:
+https://miro.com/welcomeonboard/aTl3Sm0yb1lUWmlzU3RwNUQ1ZjByam1nNVM3S0FTNW
+NCUkhjcFlodUZhdWphd0pWZUpiRG9HanNNSENxYWcwdnwzMDc0NDU3MzY0ODc4MTMx
+MTU4fDI=?share_link_id=531594994039 

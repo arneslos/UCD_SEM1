@@ -198,6 +198,8 @@ wordt en of er eventuele extra aanpassingen mogelijk zijn.
 
 ### Resultaten
 De twee lay-outs zijn getest in een wagen waarbij al de instrumenten zijn afgedekt en de layouts met papier op de ruit zijn geplakt. De bestuurder gaf dan aan welke aanduidingen er ontbraken of niet goed werden weergegeven.
+
+![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/8bc53b4e-3e65-4af0-8875-578d692a0e01)
 Testopstelling van lay-out 1
 De eerste opstelling die getest
 werd, had als opmerking dat er

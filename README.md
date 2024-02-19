@@ -12,7 +12,7 @@ Dit probleem is verder onderzocht. De gebruikte technieken zijn: design ethnogra
 
 De oplossing in deze studie is een dashboard waarbij het scherm verdwijnt en dus onbruikbaar wordt wanneer de wagen begint met rijden. Al de essentiële zaken zoals snelheid, GPS, radio, … worden dan geprojecteerd over de voorruit met een heads up display. In de wagen zijn er acht programmeerbare knoppen aanwezig waarmee al de functies bediend kunnen worden. Hierdoor kan de bestuurder zich beter focussen op de weg en het verkeer. Eventuele bedieningen kunnen via het scherm (bij stilstand) of met spraakherkenning (tijdens het rijden).
 
-![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/f0900578-0675-4d05-a614-5c61481174c1)
+![image](https://github.com/arneslos/UCD_SEM1/assets/FOTOS/159801398/f0900578-0675-4d05-a614-5c61481174c1)
 
 ## Introductie
 Uit een Britse studie (Nws, 2021b) blijkt dat schermen in het verkeer voor afleiding zorgen en dat het reactievermogen van een bestuurder hierdoor tot wel 3 keer trager is dan het reactievermogen van een dronken bestuurder. Dit komt doordat de bestuurder op dat moment niet naar de omgeving kijkt, maar zijn of haar ogen gericht zijn op de schermen in de auto. Een mogelijke oplossing is alle schermen in de auto die niet in het directe gezichtsveld van de bestuurder zijn, te verwijderen, met behoud van toegankelijkheid van alle functies.

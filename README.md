@@ -217,6 +217,8 @@ Hier was ook geen rekening gehouden met een plaats voor het infotainment systeem
 
 Bij de beide opstellingen was er een opmerking dat de vakken waarin de informatie wordt weergegeven klein en moeilijk leesbaar zijn. Dit kan worden opgelost door de vakken waar de bestuurder in wil ‘werken’ tijdelijk centraal en groter te projecteren. Bij de resultaten van de twee cardboard prototypes is er tussen de verschillende functies geen significante verschillen waargenomen in tijd. Bij de volumeknop was er wel een significant verschil in gemeten tijd tussen een drukknop dan en een draaiknop.
 
+![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/a69e4ea7-e598-486e-829e-cddb43040e23)
+
 ### Conclusies & implicaties
 Om een goede en overzichtelijke heads up display te bekomen moet al de informatie op een
 overzichtelijke manier worden weergegeven. De oplossing is door de informatie bij niet

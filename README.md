@@ -199,36 +199,23 @@ wordt en of er eventuele extra aanpassingen mogelijk zijn.
 ### Resultaten
 De twee lay-outs zijn getest in een wagen waarbij al de instrumenten zijn afgedekt en de layouts met papier op de ruit zijn geplakt. De bestuurder gaf dan aan welke aanduidingen er ontbraken of niet goed werden weergegeven.
 
+#### Testopstelling van lay-out 1
+
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/8bc53b4e-3e65-4af0-8875-578d692a0e01)
-Testopstelling van lay-out 1
-De eerste opstelling die getest
-werd, had als opmerking dat er
-geen plaats voorzien was voor een
-infotainment systeem om
-bijvoorbeeld Apple CarPlay op weer
-te geven. Ook werden zaken zoals
-de radio en de meldingen niet direct
-in het gezichtsveld en te klein
-weergegeven waardoor de
-bestuurder op zoek moet gaan
-waar deze zijn aangegeven.
-Testopstelling van lay-out 2
-De tweede opstelling gaf een betere
-gebruikservaring.
-Er is meer overzicht door al de
-Informatie naar de kanten van de ruit
-te plaatsen. De positie van de
-meldingen en van de radio/ muziek vond
-de bestuurder beter in de eerste opstelling.
-Hier was ook geen rekening gehouden
-met een plaats voor het infotainment
-systeem.
-Bij de beide opstellingen was er een opmerking dat de vakken waarin de informatie wordt
-weergegeven klein en moeilijk leesbaar zijn. Dit kan worden opgelost door de vakken waar de
-bestuurder in wil ‘werken’ tijdelijk centraal en groter te projecteren.
-Bij de resultaten van de twee cardboard prototypes is er tussen de verschillende functies geen
-significante verschillen waargenomen in tijd. Bij de volumeknop was er wel een significant
-verschil in gemeten tijd tussen een drukknop dan en een draaiknop.
+
+
+De eerste opstelling die getest werd, had als opmerking dat er geen plaats voorzien was voor een infotainment systeem om bijvoorbeeld Apple CarPlay op weer te geven. Ook werden zaken zoals de radio en de meldingen niet direct in het gezichtsveld en te klein weergegeven waardoor de bestuurder op zoek moet gaan waar deze zijn aangegeven.
+
+#### Testopstelling van lay-out 2
+
+![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/49520551-feef-4c23-b339-bc45755d7863)
+
+
+De tweede opstelling gaf een betere gebruikservaring. Er is meer overzicht door al de Informatie naar de kanten van de ruit te plaatsen. De positie van de meldingen en van de radio/ muziek vond de bestuurder 
+beter in de eerste opstelling.
+Hier was ook geen rekening gehouden met een plaats voor het infotainment systeem.
+
+Bij de beide opstellingen was er een opmerking dat de vakken waarin de informatie wordt weergegeven klein en moeilijk leesbaar zijn. Dit kan worden opgelost door de vakken waar de bestuurder in wil ‘werken’ tijdelijk centraal en groter te projecteren. Bij de resultaten van de twee cardboard prototypes is er tussen de verschillende functies geen significante verschillen waargenomen in tijd. Bij de volumeknop was er wel een significant verschil in gemeten tijd tussen een drukknop dan en een draaiknop.
 
 ### Conclusies & implicaties
 Om een goede en overzichtelijke heads up display te bekomen moet al de informatie op een

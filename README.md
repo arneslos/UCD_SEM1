@@ -314,9 +314,16 @@ Tijdens het uitvoeren van de user tests bleek dat er veel onduidelijkheid was ro
 ### Conclusies & implicaties
 Bij de bediening van de Airco is het vaak onduidelijk hoe het precies werkt en is de bediening met de knoppen niet zo vlot, een optie om dit vlotter te laten werken is door de omstaande functies zwart te maken en de bediening van de AC via de draaiknop te laten verlopen. Er moet ook een duidelijk zichtbare temperatuur en blaashardheid aangegeven worden. Er kan ook een navigatie functie toegevoegd worden dit kan eventueel met vooraf ingestelde adressen die dan op een knop in die menu geprogrammeerd staan. Verder willen we de locatie van de knoppen op een logischere positie rangschikken en de feedback duidelijker laten verlopen.
 
+## Develop 3
+### Doelstellingen
+Tijdens de laatste develop fase worden de laatste aanpassingen aan het prototype gemaakt op basis van al de eerder verzamelde informatie uit de vorige fases. Tijdens deze fase werd er gefocust op de verschillende manieren om een functie uit te voeren en de feedback die een gebruiker krijgt bij het gebruiken ven functies.  Dit gebeurde door een functie analyse op te stellen en een verbeterd prototype te maken met protopy.
+Het doel is om een finaal en geoptimaliseerd prototype van de knoppen te bekomen
 
+### Materiaal & methoden
 
+### Resultaten
 
+### Conclusies & implicaties
 
 ## Bronnen
 (Nws, 2021b) : Nws, V. (2021, 11 maart). Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: “Europese regels nodig”. vrtnws.be.

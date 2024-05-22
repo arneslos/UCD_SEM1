@@ -275,6 +275,7 @@ Door de individueel onderzoeken samen te voegen ontstonden er meer invalshoeken 
 concept hierdoor kwamen er ook meer bevestiging van de gekozen oplossingen/ concept. 
 
 ## Methdologie semester 2
+In het tweede semester is er ingezoomd in het project op de bediening van de functies met de acht knoppen. 
 
 ## Develop 1
 ### Doelstellingen

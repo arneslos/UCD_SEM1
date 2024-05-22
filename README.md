@@ -287,6 +287,7 @@ Na het testen van de knop grootte kan er besloten worden dat hoe groter de knop 
 | M |	 6 /40 |	5 /40 |	18 /40 |
 | S |	 8 /40 |	6 /40 |	22 /40 |
 | XS |	 15 /40 |	12 /40 |	25 /40 |
+aantal keren dat er fout gerdukt is
 
 De afstand dat de persoon van de knoppen verwijderd is heeft ook een invloed op de aantal keer dat het gelukt is om de gevraagde knop in te drukken. Hoe dichter de bestuurder bij de knoppen zit hoe hoger de kans dat een knop goed word ingedrukt.
 

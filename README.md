@@ -294,6 +294,23 @@ Dit is heel belangrijk want effecten van trillingen tijdens het rijden met de wa
 De afmetingen van de XL knop kunnen nog groter gemaakt worden om een nog betere kans te krijgen dat de knop correct wordt ingedrukt. Maar dit zal als gevolg hebben dat ze te afleidend worden en te veel plaats innemen, hierdoor zou het ook kunnen zijn dat de uiterste knop te ver van de bestuurder verwijderd is om die nog op een goede manier in te drukken. 
 
 
+## Develop 2
+### Doelstellingen
+Tijdens de tweede develop fase is het doel een geoptimaliseerd ontwerp te bekomen om later finale testen mee uit te voeren. Het geoptimaliseerd ontwerp is bekomen door expert reviews en usability tests uit te voeren.
+
+### Materiaal & methoden
+Als eerste stap zijn er twee expert reviews afgenomen. Het concept werd aan de experten uitgelegd. Hierna werd er aan de experts gevraagd om het concept scores te geven aan de hand van de heuristieken van Nielsen. De heuristieken die vergeleken werden zijn op voorhand gekozen. Alleen de meest relevante heuristieken, die he meest bij de ontwerp parameters van het project passen zijn gekozen. De heuristieken kregen elk ook een doorslagscore om zo de belangrijkste focuspunten harder door te laten wegen. 
+Nadat de experts het concept gescoord hebben maken die een conceptuele schets van een dashboard waarbij e de knoppen tekenden en eventuele bedenkingen bij de knoppen of de functie hiervan. Er werd ook gevraagd aan de experts om zelf een voorstel van een dashboard met knoppen en de functies hiervan te schetsen.
+Na de expert reviews is het concept en het prototype bijgewerkt en zijn er user tests uitgevoerd. Bij deze testen krijgt de gebruiker het prototype eerst te zien en overloopt deze al de knoppen en zegt wat de eventuele functie van elke knop zou kunnen zijn. Tijdens het overlopen van de functies die de knoppen hebben word de gebruiker telkens gezegd of deze goed of fout is en wat de functie dan wel is. Na het overlopen word de gebruiker gevraagd om zich in te beelden dat die aan het rijden is in een wagen. Tijdens de test word de gebruiker gevraagd om verschillende functies uit te voeren. Er word gewerkt met een Wizard Of Oz methode waarbij er verschillende geluiden worden afgespeeld als de gebruiker bepaalde handelingen uitvoert. De handelingen die de gebruiker uitvoert worden ook getimed om te ondervinden welke functie veel tijd inneemt en dus vereenvoudigd moet worden. Als de test afgelopen is word de gebruiker bevraagd over hoe deze het prototype ervaren heeft.
+
+### Resultaten
+Uit de expert reviews kwamen er een paar onduidelijkheden naar boven bij het prototype. De plaatsing van de knoppen was niet logisch, de stoelverwarming van de bestuurder stond links onder en die van de passagier stond links boven.  De expert gaf aan dat dit beter aangepast kon worden naar de bestuurder links boven en de passagier rechts boven. Voor beide experts was het ook niet duidelijk dat er menu’s waren zoals bij de bediening van de airco. Het is in die menu nog steeds mogelijk om andere functies aan te klikken wat niet overzichtelijk is. Dit kan worden opgelost door wanneer de gebruiker in een menu werkt de niet gebruikte knoppen te dimmen. Er was ook geen aanduiding hoe hard de airco blaast en hoe warm deze blaast. De experts merkten ook op dat er geen navigatie functie was voorzien en dat dit wel een vaak gebruikte functie is. 
+Tijdens het uitvoeren van de user tests bleek dat er veel onduidelijkheid was rond met de functie om de airco te regelen. Om deze functie te bedienen was er telkens het meeste tijd nodig, dit kwam omdat de functie in een menu zit die geopend moet worden. Voor sommige gebruikers was het ook moeilijk om de menu te sluiten als deze klaar waren de airco aan te passen.
+
+### Conclusies & implicaties
+Bij de bediening van de Airco is het vaak onduidelijk hoe het precies werkt en is de bediening met de knoppen niet zo vlot, een optie om dit vlotter te laten werken is door de omstaande functies zwart te maken en de bediening van de AC via de draaiknop te laten verlopen. Er moet ook een duidelijk zichtbare temperatuur en blaashardheid aangegeven worden. Er kan ook een navigatie functie toegevoegd worden dit kan eventueel met vooraf ingestelde adressen die dan op een knop in die menu geprogrammeerd staan. Verder willen we de locatie van de knoppen op een logischere positie rangschikken en de feedback duidelijker laten verlopen.
+
+
 
 
 

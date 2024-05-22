@@ -31,15 +31,25 @@ Dit onderzoek wordt uitgevoerd aan de UGent te Kortrijk in samenwerking met Gran
 ## Methdologie
 De toegepaste methodologie is gebaseerd op Roozenburg & Eekels (1995). 
 Deze methodologie bestaat uit een aantal fasen. Tijdens de eerste fase wordt het probleem gedefinieerd. In dit onderzoek is het probleem: de aanwezigheid van aanraakschermen in wagens zorgt voor afleidingen. 
+
 Gedurende de tweede fase wordt er op verschillende manieren informatie verzameld. Tijdens deze fase in het onderzoek zijn er gebruiker interviews, een design ethnography, een benchmarkstudie en een literatuurstudie uitgevoerd. 
+
 In de derde fase wordt de informatie die verzameld is verwerkt. De antwoorden van het interview, opmerkingen bij het design ethnography worden geanalyseerd en omgezet naar potentiele verbeteteringen. 
+
 De vierde fase is de fase waarin het probleem wordt geherdefinieerd aan de hand van de bekomen informatie. In het geval van dit project werd de geherdefinieerde probleemstelling: het gebruiken van aanraakschermen tijdens het rijden is gevaarlijk omdat het voor afleiding zorgt en de aandacht voor de weg verminderd. 
+
 In de vijfde fase wordt er een programma van eisen opgesteld. In dit programma van eisen worden al de specificaties van het uiteindelijke product vastgelegd, dit gebeurde aan de hand van een PRD (Product Requirements Document) (bijlage 1).
+
 De zesde fase is de idee generatie fase, hier worden al de mogelijke ideeën verzameld, deze ideeën kunnen van heel eenvoudig tot onmogelijk zijn. De vereiste is dat de ideeën een oplossing zijn voor het probleem. Dit gebeurde door verschillende dingen neer te schrijven en door schetsen te maken.
+
 In de zevende fase worden er uit de gegenereerde oplossingen een paar gekozen met veel potentieel. Deze worden een verder uitgewerkt om de interessantste en haalbare oplossingen te kunnen selecteren.
+
 In de achtste fase wordt er één concept gekozen als de oplossing. Deze wordt dan volledig uitgewerkt. In het geval van dit concept: een dashboard met een scherm dat wegklapt als de wagen begint met rijden.  Op dit moment wordt al de essentiële informatie op de voorruit geprojecteerd met een heads up display systeem. Er zijn enkele programmeerbare knoppen aanwezig om zelfgekozen functies te bedienen.
+
 In de negende fase wordt de PRD verder uitgewerkt met de nieuwe informatie na het vastleggen van het concept.
+
 De tiende fase dient om te bekijken hoe het concept getest kan worden.
+
 In de elfde fase wordt het finaal concept getest.
 
 | Fase  | Action | Outcome  | 
@@ -272,7 +282,7 @@ Het doel van dit onderzoek is om de ideale grote van de knoppen te bepalen zodat
 
 ### Materiaal & methoden
 Om de afstand van de knoppen tot de stoel te bepalen werd er eerst een theoretische waarde berekend aan de hand van data die in de DiNed databank. In deze databank stonden niet precies de waarden die nodig waren dus werden er 2 waarden opgeteld met de nodige formules.  De lengte van de arm werd opgeteld bij de lengte van een gestrekt hand. Om de berekeningen te controleren werd een stoel op deze afstand van een dashboard en nagegaan of een persoon het dashboard kon raken op een comfortabele manier. 
-Hierna is er ook een test uitgevoerd om na te gaan hoe groot de knoppen moeten zijn zodat deze nog op een goede manier zonder veel te moeten kijken ingedrukt kunnen worden. Dit is getest door de knoppen op een karton “dashboard” te bevestigen en dan de “bestuurder” te vragen om een bepaalde maat knop in te drukken. De bedoeling was dat de testpersoon dit zo rap mogelijk deed en zo weinig mogelijke naar het dashboard keek. Er word dan genoteerd of de bestuurder erin slaagt om de knop in te drukken. Deze test word hierna 2 keer herhaald met de bestuurder die eerst 10 centimeter dichter zit bij het dashboard en daarna 10 centimeter verder van het dashboard dan de theoretisch berekende armlengte.
+Hierna is er ook een test uitgevoerd om na te gaan hoe groot de knoppen moeten zijn zodat deze nog op een goede manier zonder veel te moeten kijken ingedrukt kunnen worden. Dit is getest door de verschillende maten van de ge-3D-printte knoppen op een karton “dashboard” te bevestigen en dan de “bestuurder” te vragen om een bepaalde maat knop in te drukken. De bedoeling was dat de testpersoon dit zo rap mogelijk deed en zo weinig mogelijke naar het dashboard keek. Er word dan genoteerd of de bestuurder erin slaagt om de knop in te drukken. Deze test word hierna 2 keer herhaald met de bestuurder die eerst 10 centimeter dichter zit bij het dashboard en daarna 10 centimeter verder van het dashboard dan de theoretisch berekende armlengte.
  
 
 ### Resultaten
@@ -300,10 +310,11 @@ De afmetingen van de XL knop kunnen nog groter gemaakt worden om een nog betere 
 
 ## Develop 2
 ### Doelstellingen
-Tijdens de tweede develop fase is het doel een geoptimaliseerd ontwerp te bekomen om later finale testen mee uit te voeren. Het geoptimaliseerd ontwerp is bekomen door expert reviews en usability tests uit te voeren.
+Tijdens de tweede develop fase is het doel een geoptimaliseerd ontwerp te bekomen om later finale testen mee uit te voeren. Het geoptimaliseerd ontwerp is bekomen door expert reviews en usability tests uit te voeren. 
 
 ### Materiaal & methoden
-Als eerste stap zijn er twee expert reviews afgenomen. Het concept werd aan de experten uitgelegd. Hierna werd er aan de experts gevraagd om het concept scores te geven aan de hand van de heuristieken van Nielsen. De heuristieken die vergeleken werden zijn op voorhand gekozen. Alleen de meest relevante heuristieken, die he meest bij de ontwerp parameters van het project passen zijn gekozen. De heuristieken kregen elk ook een doorslagscore om zo de belangrijkste focuspunten harder door te laten wegen. 
+Om de testen in de twede develop fase af te nemen is er een prototype met figma en een ge-3D-print frame om een gsm in te monteren gemaakt. Het figma bestand heeft een standaard configuratie van interactieve knoppen om te test voor iedere gebruiker gelijk te doen verlopen. Zo kunnen de uikomsten beter vergeleken worden. Om de gebruiker feedback te geven word er gebruik gemaakt van geluiden die met een apparte computer worden afgespeeld.
+Als eerste stap zijn er twee expert reviews afgenomen. Het concept werd aan de experten uitgelegd. Hierna werd er aan de experts gevraagd om het concept en hert prototype scores te geven aan de hand van de heuristieken van Nielsen. De heuristieken die vergeleken werden zijn op voorhand gekozen. Alleen de meest relevante heuristieken, die he meest bij de ontwerp parameters van het project passen zijn gekozen. De heuristieken kregen elk ook een doorslagscore om zo de belangrijkste focuspunten harder door te laten wegen. 
 Nadat de experts het concept gescoord hebben maken die een conceptuele schets van een dashboard waarbij e de knoppen tekenden en eventuele bedenkingen bij de knoppen of de functie hiervan. Er werd ook gevraagd aan de experts om zelf een voorstel van een dashboard met knoppen en de functies hiervan te schetsen.
 Na de expert reviews is het concept en het prototype bijgewerkt en zijn er user tests uitgevoerd. Bij deze testen krijgt de gebruiker het prototype eerst te zien en overloopt deze al de knoppen en zegt wat de eventuele functie van elke knop zou kunnen zijn. Tijdens het overlopen van de functies die de knoppen hebben word de gebruiker telkens gezegd of deze goed of fout is en wat de functie dan wel is. Na het overlopen word de gebruiker gevraagd om zich in te beelden dat die aan het rijden is in een wagen. Tijdens de test word de gebruiker gevraagd om verschillende functies uit te voeren. Er word gewerkt met een Wizard Of Oz methode waarbij er verschillende geluiden worden afgespeeld als de gebruiker bepaalde handelingen uitvoert. De handelingen die de gebruiker uitvoert worden ook getimed om te ondervinden welke functie veel tijd inneemt en dus vereenvoudigd moet worden. Als de test afgelopen is word de gebruiker bevraagd over hoe deze het prototype ervaren heeft.
 
@@ -316,10 +327,11 @@ Bij de bediening van de Airco is het vaak onduidelijk hoe het precies werkt en i
 
 ## Develop 3
 ### Doelstellingen
-Tijdens de laatste develop fase worden de laatste aanpassingen aan het prototype gemaakt op basis van al de eerder verzamelde informatie uit de vorige fases. Tijdens deze fase werd er gefocust op de verschillende manieren om een functie uit te voeren en de feedback die een gebruiker krijgt bij het gebruiken ven functies.  Dit gebeurde door een functie analyse op te stellen en een verbeterd prototype te maken met protopy.
-Het doel is om een finaal en geoptimaliseerd prototype van de knoppen te bekomen
+Tijdens de laatste develop fase worden de laatste aanpassingen aan het prototype gemaakt op basis van al de eerder verzamelde informatie uit de vorige fases. Tijdens deze fase werd er gefocust op de verschillende manieren om een functie uit te voeren en de feedback die een gebruiker krijgt bij het gebruiken ven functies.  Dit gebeurde door een functie analyse op te stellen en een verbeterd prototype te maken met protopie.
+Het doel is om een finaal en geoptimaliseerd prototype van de knoppen te bekomen.
 
 ### Materiaal & methoden
+Om het aangepaste prototype te testen werd er gebruik gamaakt van een nieuw 
 
 ### Resultaten
 

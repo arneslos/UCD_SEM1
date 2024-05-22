@@ -268,7 +268,7 @@ concept hierdoor kwamen er ook meer bevestiging van de gekozen oplossingen/ conc
 ## Develop 1
 ### Doelstellingen
 In het begin van de develop fase is er beslist om in te zoomen op het gedeelte dat enkel focust op de knoppen die de wagen bedienen. De knoppen zullen elk een vooraf vastgelegde functie hebben. Tijdens de eerste develop fase is de positie en de grote van de knoppen onderzocht. 
-Het doel van dit onderzoek is om de ideale grote van de knoppen te bepalen zodat deze niet te groot en afleidend zijn maar wel nog makkelijk te bedienen zijn.  
+Het doel van dit onderzoek is om de ideale grote van de knoppen te bepalen zodat deze niet te groot en afleidend zijn maar wel nog op een makkelijke manier te bedienen zijn.  
 
 ### Materiaal & methoden
 Om de afstand van de knoppen tot de stoel te bepalen werd er eerst een theoretische waarde berekend aan de hand van data die in de DiNed databank. In deze databank stonden niet precies de waarden die nodig waren dus werden er 2 waarden opgeteld met de nodige formules.  De lengte van de arm werd opgeteld bij de lengte van een gestrekt hand. Om de berekeningen te controleren werd een stoel op deze afstand van een dashboard en nagegaan of een persoon het dashboard kon raken op een comfortabele manier. 
@@ -279,11 +279,12 @@ Hierna is er ook een test uitgevoerd om na te gaan hoe groot de knoppen moeten z
 Na het berekenen van de waarde werd er een armlengte tot de vinger van 907 millimeter gevonden. Met een standaard deviatie van 47,59 millimeter.
 Bij het testen van deze waarde bleek deze niet te kloppen, hierna werd de databank en de berekening nog eens bekeken en werd er opgemerkt dat de lengte van de handpalm twee keer werd meegerekend. Als de test een tweede maal werd uitgevoerd waarbij er wel rekening gehouden werd met de lengte van de handpalm, dus de afstand van de stoel tot het dashboard werd verminderd met de lengte van de handpalm. Dan waren de testpersonen in staat om het dashboard aan te raken.
 Na het testen van de knop grootte kan er besloten worden dat hoe groter de knop is hoe minder fouten er worden gemaakt. De knoppen zouden nog groter gemaakt kunnen worden maar dit kan dan weer voor meer afleiding zorgen aangezien het lcd knoppen zijn die een beeld weergeven. De afstand van de persoon tot de knoppen had ook een invloed op het aantal keer dat het gelukt was om de gevraagde maat van knop in te drukken.
-	Berekende afstand	Kortere afstand	Langere afstand
-XL	4 /40	4 /40	14 /40
-M	6 /40	5 /40	18 /40
-S	8 /40	6 /40	22 /40
-XS	15 /40	12 /40	25 /40
+
+|	|Berekende afstand|	|Kortere afstand|	|Langere afstand|
+|XL|	|4 /40|	|4 /40|	|14 /40|
+|M|	|6 /40|	|5 /40|	18 /40|
+|S|	|8 /40|	|6 /40|	22 /40|
+|XS|	|15 /40|	|12 /40|	25 /40|
 
 De afstand dat de persoon van de knoppen verwijderd is heeft ook een invloed op de aantal keer dat het gelukt is om de gevraagde knop in te drukken. Hoe dichter de bestuurder bij de knoppen zit hoe hoger de kans dat een knop goed word ingedrukt.
 

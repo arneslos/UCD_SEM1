@@ -274,6 +274,7 @@ oorzaak bekend is.
 Door de individueel onderzoeken samen te voegen ontstonden er meer invalshoeken over het
 concept hierdoor kwamen er ook meer bevestiging van de gekozen oplossingen/ concept. 
 
+## Methdologie semester 2
 
 ## Develop 1
 ### Doelstellingen
@@ -313,7 +314,7 @@ De afmetingen van de XL knop kunnen nog groter gemaakt worden om een nog betere 
 Tijdens de tweede develop fase is het doel een geoptimaliseerd ontwerp te bekomen om later finale testen mee uit te voeren. Het geoptimaliseerd ontwerp is bekomen door expert reviews en usability tests uit te voeren. 
 
 ### Materiaal & methoden
-Om de testen in de twede develop fase af te nemen is er een prototype met figma en een ge-3D-print frame om een gsm in te monteren gemaakt. Het figma bestand heeft een standaard configuratie van interactieve knoppen om te test voor iedere gebruiker gelijk te doen verlopen. Zo kunnen de uikomsten beter vergeleken worden. Om de gebruiker feedback te geven word er gebruik gemaakt van geluiden die met een apparte computer worden afgespeeld.
+Om de testen in de twede develop fase af te nemen is er een prototype met figma en een ge-3D-print frame om een gsm in te monteren gemaakt. De grote van de knoppen is gebaseerd op de test van de vorige fase. Het figma bestand heeft een standaard configuratie van interactieve knoppen om te test voor iedere gebruiker gelijk te doen verlopen. Zo kunnen de uikomsten beter vergeleken worden. Om de gebruiker feedback te geven word er gebruik gemaakt van geluiden die met een apparte computer worden afgespeeld.
 Als eerste stap zijn er twee expert reviews afgenomen. Het concept werd aan de experten uitgelegd. Hierna werd er aan de experts gevraagd om het concept en hert prototype scores te geven aan de hand van de heuristieken van Nielsen. De heuristieken die vergeleken werden zijn op voorhand gekozen. Alleen de meest relevante heuristieken, die he meest bij de ontwerp parameters van het project passen zijn gekozen. De heuristieken kregen elk ook een doorslagscore om zo de belangrijkste focuspunten harder door te laten wegen. 
 Nadat de experts het concept gescoord hebben maken die een conceptuele schets van een dashboard waarbij e de knoppen tekenden en eventuele bedenkingen bij de knoppen of de functie hiervan. Er werd ook gevraagd aan de experts om zelf een voorstel van een dashboard met knoppen en de functies hiervan te schetsen.
 Na de expert reviews is het concept en het prototype bijgewerkt en zijn er user tests uitgevoerd. Bij deze testen krijgt de gebruiker het prototype eerst te zien en overloopt deze al de knoppen en zegt wat de eventuele functie van elke knop zou kunnen zijn. Tijdens het overlopen van de functies die de knoppen hebben word de gebruiker telkens gezegd of deze goed of fout is en wat de functie dan wel is. Na het overlopen word de gebruiker gevraagd om zich in te beelden dat die aan het rijden is in een wagen. Tijdens de test word de gebruiker gevraagd om verschillende functies uit te voeren. Er word gewerkt met een Wizard Of Oz methode waarbij er verschillende geluiden worden afgespeeld als de gebruiker bepaalde handelingen uitvoert. De handelingen die de gebruiker uitvoert worden ook getimed om te ondervinden welke functie veel tijd inneemt en dus vereenvoudigd moet worden. Als de test afgelopen is word de gebruiker bevraagd over hoe deze het prototype ervaren heeft.
@@ -331,11 +332,13 @@ Tijdens de laatste develop fase worden de laatste aanpassingen aan het prototype
 Het doel is om een finaal en geoptimaliseerd prototype van de knoppen te bekomen.
 
 ### Materiaal & methoden
-Om het aangepaste prototype te testen werd er gebruik gamaakt van een nieuw 
+Om het aangepaste prototype te testen werd er gebruik gamaakt van een nieuw prototype. Er werd een frame ge-3D-print om een gsm in te monteren, bij dit prototype werd er ook een draaiknop toegevoegd. Er werd ook gekozen om met protopie te werken omdat dit programma meer opties bied op het vlak van feedback. De layout van de knoppen werd aangepast op basis van de feedback in de vorige fase. Er werd ook voor een visuele feedback en audio aangezien de gebruikers hiermee moeite hadden in de vorige test. 
 
 ### Resultaten
 
 ### Conclusies & implicaties
+
+## Finale conclusie
 
 ## Bronnen
 (Nws, 2021b) : Nws, V. (2021, 11 maart). Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: “Europese regels nodig”. vrtnws.be.

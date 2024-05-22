@@ -294,11 +294,12 @@ Na het testen van de knop grootte kan er besloten worden dat hoe groter de knop 
 | 10 | detailed development of concept | Kiezen hoe de concepten gemaakt en getest kunnen worden. |
 | 11 | testing concepts against design requirements | De concepten testen. |
 
-|	|  Berekende afstand |	Kortere afstand | Langere afstand |
-| XL |	 4 /40|	4 /40|	14 /40|
-| M |	 6 /40|	5 /40|	18 /40|
-| S |	 8 /40|	6 /40|	22 /40|
-| XS |	 15 /40|	12 /40|	25 /40|
+|             	|  Berekende afstand |	Kortere afstand | Langere afstand |
+| ------------- | ------------- |  ------------- |  ------------- | 
+| XL |	 4 /40 |	4 /40 |	14 /40 |
+| M |	 6 /40 |	5 /40 |	18 /40 |
+| S |	 8 /40 |	6 /40 |	22 /40 |
+| XS |	 15 /40 |	12 /40 |	25 /40 |
 
 De afstand dat de persoon van de knoppen verwijderd is heeft ook een invloed op de aantal keer dat het gelukt is om de gevraagde knop in te drukken. Hoe dichter de bestuurder bij de knoppen zit hoe hoger de kans dat een knop goed word ingedrukt.
 

@@ -341,14 +341,6 @@ Na de expert reviews is het concept en het prototype bijgewerkt en zijn er user 
 
 ### Resultaten
 
-| **heuristieken**  | **Score /10** | **Doorslag score**  | 
-| Laat zien wat er gebeurt  | 6 | 1 x  | 
-| Biedt zekerheid en controle  | 7.5 | 1.2 x  | 
-| Foutpreventie  | 8 | 1 x  | 
-| Flexibiliteit en efficiëntie van gebruik  | 7 | 1.2 x  | 
-| Esthetisch en simpel design  | 6.5 | 1 x  | 
-| Help de gebruiker met het herkennen, oplossen, ... van fouten  | 8 | 1 x  | 
-
 ( evaluatieschema Ruben Rimbout )
 
 | heuristieken	| Score /10 | Doorslag score |
@@ -361,6 +353,19 @@ Na de expert reviews is het concept en het prototype bijgewerkt en zijn er user 
 | Help de gebruiker met het herkennen, oplossen, ... van fouten |	 8 |	1 x |
 
 Totale score: 7.65 / 10
+
+( evaluatieschema Milan Berckmoes  )
+
+| heuristieken	| Score /10 | Doorslag score |
+| ------------- | ------------- |  ------------- |
+| Laat zien wat er gebeurt |	 7 |	1 x |
+| Biedt zekerheid en controle |	 7 |	1.2 x |
+| Foutpreventie |	 8 |	1 x |
+| Flexibiliteit en efficiëntie van gebruik |	 7.5 |	1.2 x |
+| Esthetisch en simpel design |	 7 |	1 x |
+| Help de gebruiker met het herkennen, oplossen, ... van fouten |	 7.5 |	1 x |
+
+Totale score: 7.81667 / 10
 
 Uit de expert reviews kwamen er een paar onduidelijkheden naar boven bij het prototype. De plaatsing van de knoppen was niet logisch, de stoelverwarming van de bestuurder stond links onder en die van de passagier stond links boven.  De expert gaf aan dat dit beter aangepast kon worden naar de bestuurder links boven en de passagier rechts boven. Voor beide experts was het ook niet duidelijk dat er menu’s waren zoals bij de bediening van de airco. Het is in die menu nog steeds mogelijk om andere functies aan te klikken wat niet overzichtelijk is. Dit kan worden opgelost door wanneer de gebruiker in een menu werkt de niet gebruikte knoppen te dimmen. Er was ook geen aanduiding hoe hard de airco blaast en hoe warm deze blaast. De experts merkten ook op dat er geen navigatie functie was voorzien en dat dit wel een vaak gebruikte functie is. 
 Tijdens het uitvoeren van de user tests bleek dat er veel onduidelijkheid was rond met de functie om de airco te regelen. Om deze functie te bedienen was er telkens het meeste tijd nodig, dit kwam omdat de functie in een menu zit die geopend moet worden. Voor sommige gebruikers was het ook moeilijk om de menu te sluiten als deze klaar waren de airco aan te passen.

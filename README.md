@@ -285,7 +285,8 @@ Het doel van dit onderzoek is om de ideale grote van de knoppen te bepalen zodat
 ### Materiaal & methoden
 Om de afstand van de knoppen tot de stoel te bepalen werd er eerst een theoretische waarde berekend aan de hand van data die in de DiNed databank beschikbaar is. In deze databank stonden niet precies de waarden die nodig waren dus werden er 2 waarden opgeteld met de nodige formules. De lengte van de arm werd opgeteld bij de lengte van een gestrekt hand. Om de berekeningen te controleren werd een autostoel op deze afstand van een dashboard gepositioneerd en nagegaan of een persoon het dashboard op een comfortabele manier kon raken. 
 Hierna is er ook een test uitgevoerd om na te gaan hoe groot de knoppen moeten zijn zodat deze nog op een goede manier, zonder veel te moeten kijken, ingedrukt kunnen worden. Dit is getest door de verschillende maten van de ge-3D-printte knoppen op een karton “dashboard” te bevestigen en dan de “bestuurder” te vragen om een bepaalde maat knop in te drukken. De bedoeling was dat de testpersoon dit zo rap mogelijk deed en zo weinig mogelijk naar het dashboard keek. Er werd dan genoteerd of de bestuurder erin slaagt om de knop in te drukken. Deze test wordt hierna 2 keer herhaald met de bestuurder die eerst 10 centimeter dichter bij het dashboard zit en daarna 10 centimeter verder van het dashboard zit dan de theoretisch berekende armlengte.
- 
+![442569339_373010415747788_6650690577631553502_n (1)](https://github.com/arneslos/UCD_SEM1/assets/159801398/86d519b4-7730-4df2-bdef-30aa3218ae4c)
+
 
 ### Resultaten
 Na het berekenen van de waarde werd er een armlengte tot de vinger van 907 millimeter gevonden met een standaard deviatie van 47,59 millimeter volgens de populatie van Nederlandse volwassenen, zowel man als vrouw, tussen 20 en 60 jaar.

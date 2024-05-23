@@ -354,11 +354,11 @@ Na de expert reviews is het concept en het prototype bijgewerkt en zijn er user 
 | heuristieken	| Score /10 | Doorslag score |
 | ------------- | ------------- |  ------------- |
 | Laat zien wat er gebeurt |	 6 |	1 x |
-| M |	 6 /40 |	1.2 x |
-| S |	 8 /40 |	6 /40 |
-| XS |	 15 /40 |	1.2 x |
-
-
+| Biedt zekerheid en controle |	 7.5 |	1.2 x |
+| Foutpreventie |	 8 |	1 x |
+| Flexibiliteit en efficiëntie van gebruik |	 7 |	1.2 x |
+| Esthetisch en simpel design |	 6.5 |	1 x |
+| Help de gebruiker met het herkennen, oplossen, ... van fouten |	 8 |	1 x |
 
 Totale score: 7.65 / 10
 

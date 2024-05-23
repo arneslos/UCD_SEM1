@@ -275,9 +275,9 @@ Door de individueel onderzoeken samen te voegen ontstonden er meer invalshoeken 
 concept hierdoor kwamen er ook meer bevestiging van de gekozen oplossingen/ concept. 
 
 ## Methdologie semester 2
-In het tweede semester is er ingezoomd in het project op de bediening van de functies met de acht knoppen. 
+In het tweede semester is er ingezoomd in het project op de bediening van de functies met de acht knoppen. Tijdens het eerste simester werd er gebruik gemaakt van de methodologie van Roozenburg & Eekels. Deze methodologie heeft een grote overeenkomst met de een dubble diamond methodologie waar er in de tweede en in de zesde fase word gedivergeerd en in de vierde en achtste fase wordt geconvergeerd. In het tweede semester word er nog een laatste maal gedivergeerd en geconvergeerd. Dit gebeurd in 3 develop fases waar er telkens naar een ander aspect gekeken word om verbeteringen van het product te onderzoeken. In de eerste fase word de focus gelegd op lichaamsgerelateerde parameters. In de tweede fase word er gefocust op de gebruiksvriendelijkheid van het product. In de derde en laatste fase word er onderzocht wat de verschillende vormen van interactie zijn met het product. Het doel is om na het doorlopen van deze laatste diamond een finaal concept te bekomen voor de bediening van de functies in de wagen tijdens het rjijden.
 
-## Develop 1
+## Develop 1: Human Body
 ### Doelstellingen
 In het begin van de develop fase is er beslist om in te zoomen op het gedeelte dat enkel focust op de knoppen die de wagen bedienen. De knoppen zullen elk een vooraf vastgelegde functie hebben. Tijdens de eerste develop fase is de positie en de grote van de knoppen onderzocht. 
 Het doel van dit onderzoek is om de ideale grote van de knoppen te bepalen zodat deze niet te groot en afleidend zijn maar wel nog op een makkelijke manier te bedienen zijn.  
@@ -310,7 +310,7 @@ Dit is heel belangrijk want effecten van trillingen tijdens het rijden met de wa
 De afmetingen van de XL knop kunnen nog groter gemaakt worden om een nog betere kans te krijgen dat de knop correct wordt ingedrukt. Maar dit zal als gevolg hebben dat ze te afleidend worden en te veel plaats innemen, hierdoor zou het ook kunnen zijn dat de uiterste knop te ver van de bestuurder verwijderd is om die nog op een goede manier in te drukken. 
 
 
-## Develop 2
+## Develop 2: Human Mind
 ### Doelstellingen
 Tijdens de tweede develop fase is het doel een geoptimaliseerd ontwerp te bekomen om later finale testen mee uit te voeren. Het geoptimaliseerd ontwerp is bekomen door expert reviews en usability tests uit te voeren. 
 
@@ -327,7 +327,7 @@ Tijdens het uitvoeren van de user tests bleek dat er veel onduidelijkheid was ro
 ### Conclusies & implicaties
 Bij de bediening van de Airco is het vaak onduidelijk hoe het precies werkt en is de bediening met de knoppen niet zo vlot, een optie om dit vlotter te laten werken is door de omstaande functies zwart te maken en de bediening van de AC via de draaiknop te laten verlopen. Er moet ook een duidelijk zichtbare temperatuur en blaashardheid aangegeven worden. Er kan ook een navigatie functie toegevoegd worden dit kan eventueel met vooraf ingestelde adressen die dan op een knop in die menu geprogrammeerd staan. Verder willen we de locatie van de knoppen op een logischere positie rangschikken en de feedback duidelijker laten verlopen.
 
-## Develop 3
+## Develop 3: Human Senses
 ### Doelstellingen
 Tijdens de laatste develop fase worden de laatste aanpassingen aan het prototype gemaakt op basis van al de eerder verzamelde informatie uit de vorige fases. Tijdens deze fase werd er gefocust op de verschillende manieren om een functie uit te voeren en de feedback die een gebruiker krijgt bij het gebruiken ven functies.  Dit gebeurde door een functie analyse op te stellen en een verbeterd prototype te maken met protopie.
 Het doel is om een finaal en geoptimaliseerd prototype van de knoppen te bekomen.

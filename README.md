@@ -351,13 +351,12 @@ Na de expert reviews is het concept en het prototype bijgewerkt en zijn er user 
 
 ( evaluatieschema Ruben Rimbout )
 
-| **heuristieken** | **Score /10** | **Doorslag score** |
-Laat zien wat er gebeurt	6	1 x
-Biedt zekerheid en controle	7.5	1.2 x
-Foutpreventie	8	1 x
-Flexibiliteit en efficiëntie van gebruik	7	1.2 x
-Esthetisch en simpel design	6.5	1 x
-Help de gebruiker met het herkennen, oplossen, ... van fouten	8	1 x
+| heuristieken	| Score /10 | Doorslag score |
+| ------------- | ------------- |  ------------- |
+| XL |	 4 /40 |	4 /40 |
+| M |	 6 /40 |	5 /40 |
+| S |	 8 /40 |	6 /40 |
+| XS |	 15 /40 |	12 /40 |
 
 
 

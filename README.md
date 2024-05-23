@@ -1,4 +1,4 @@
-# Car dashboard redesign
+# Buttonize
 Deze studie gaat over een vernieuwd dashboard ontwerp, die gebruik maakt van spraakherkenning, bedieningsknoppen, HUD (head-up-display) en een touchscreen dat wegklapt wanneer het voertuig in beweging komt.
 
 *Projectteam: Viktor Coopman, Arne Slos*

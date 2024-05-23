@@ -288,6 +288,7 @@ Het doel van dit onderzoek is om de ideale grote van de knoppen te bepalen zodat
 ### Materiaal & methoden
 Om de afstand van de knoppen tot de stoel te bepalen werd er eerst een theoretische waarde berekend aan de hand van data die in de DiNed databank beschikbaar is. In deze databank stonden niet precies de waarden die nodig waren dus werden er 2 waarden opgeteld met de nodige formules. De lengte van de arm werd opgeteld bij de lengte van een gestrekt hand. Om de berekeningen te controleren werd een autostoel op deze afstand van een dashboard gepositioneerd en nagegaan of een persoon het dashboard op een comfortabele manier kon raken. 
 Hierna is er ook een test uitgevoerd om na te gaan hoe groot de knoppen moeten zijn zodat deze nog op een goede manier, zonder veel te moeten kijken, ingedrukt kunnen worden. Dit is getest door de verschillende maten van de ge-3D-printte knoppen op een karton “dashboard” te bevestigen en dan de “bestuurder” te vragen om een bepaalde maat knop in te drukken. De bedoeling was dat de testpersoon dit zo rap mogelijk deed en zo weinig mogelijk naar het dashboard keek. Er werd dan genoteerd of de bestuurder erin slaagt om de knop in te drukken. Deze test wordt hierna 2 keer herhaald met de bestuurder die eerst 10 centimeter dichter bij het dashboard zit en daarna 10 centimeter verder van het dashboard zit dan de theoretisch berekende armlengte.
+
 ![439874530_1514420332621611_6437492890605404557_n (1)](https://github.com/arneslos/UCD_SEM1/assets/159801398/c72838c5-09a1-470e-ace3-2629abf582e7) ![442569339_373010415747788_6650690577631553502_n (1)](https://github.com/arneslos/UCD_SEM1/assets/159801398/86d519b4-7730-4df2-bdef-30aa3218ae4c)
 
 
@@ -319,7 +320,8 @@ Uit de resultaten van de testen blijkt dat de beste keuze voor de maat van knop 
 Dit is heel belangrijk want effecten van trillingen tijdens het rijden met de wagen zijn in deze test niet aanwezig waardoor een sterk verminderd slaagpercentage zeker niet uitgesloten is. 
 De afmetingen van de XL knop kunnen nog groter gemaakt worden om een nog betere kans te krijgen dat de knop correct wordt ingedrukt. Maar dit zal als gevolg hebben dat ze te afleidend worden en te veel plaats innemen, hierdoor zou het ook kunnen zijn dat de uiterste knop te ver van de bestuurder verwijderd is om die nog op een goede manier in te drukken. 
 
-#### Product Requirements ivm ergonomie met de knoppen
+#### Product Requirements in verband met ergonomie
+Dit onderzoek leid tot een paar product requirements:
 - Astand van schouder tot elke knop Mean: 907 mm P5: 796 mm P95: 1018 mm  
 - Astand van schouder tot draaiknop: Mean: 907 mm P5: 796 mm P95: 1018 mm 
 - Afmetingen knop: h=32 mm, b=34.5 mm
@@ -388,7 +390,7 @@ Bij de bediening van de Airco is het vaak onduidelijk hoe het precies werkt en i
 
 
 #### Product Requirements ivm ergonomie met de knoppen
-
+Dit onderzoek leid tot een paar product requirements:
 - Diameter symbolen : 18 mm
 - Bedienen airco < 1 sec
 - Locatie knoppen volgens indeling wagen
@@ -407,8 +409,8 @@ Als eerste stap werd er een funtieboom gemaakt om de verschillende handelingen i
 [Taakanalyse](https://lucid.app/lucidspark/a29f5345-b2c6-4360-82b3-dcbd95d4308d/edit?beaconFlowId=8583B9BEC7D35FA3&invitationId=inv_679c655a-8b6a-4bfd-9d54-b0bca86bb100&page=0_0#)
 ![Taakanalyse](https://github.com/arneslos/UCD_SEM1/assets/159801398/79563014-12a5-45b4-a089-6af5ac1e5729)
 
-**De belangrijkste bevindingen hieruit:** 
-Voor elke functie hebben we minimaal 2 mogelijkheden hoe we deze kunnen bedienen: aan de hand van de spraakherkenning of door een fysieke knop. Hiernaast is er ook na elke bediening of statusverandering van de functie een manier van feedback door een geluid en een verandering van kleur. 
+**De belangrijkste waarneming uit de functieboom:** 
+Voor elke functie hebben we minimaal 2 mogelijkheden hoe deze bedienent kan worden: aan de hand van de spraakherkenning of door een fysieke knop in te drukken. Hiernaast is er ook na elke bediening of statusverandering van de functie een manier van feedback door een geluid en een verandering van kleur. 
 
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/3bacb924-593b-4120-9d00-ac40e758aa1c)
 
@@ -420,17 +422,19 @@ Dit concept wordt weer getest aan de hand van een wizard of ozz scenario. De geb
 
 ### Resultaten
 
-De totale gemiddelde tijd nodig voor 1 functie te bedienen via een knop =	0.774 s 
+Na het testen met dit prototype op de twee verschillende manieren van input werd er waargenomen dat de test met de test spraakbediening merkelijk langer duurt dan de test waarbij de knoppen gebruikt werden. Dit komt omdat een functie enkel met spraakbediening gebruikt kan worden door eerst op de spreek knop te duwen en daarna de boodschap in te spreken.
+- De gemiddelde tijd nodig voor 1 functie te bedienen via een knop =	0.774 s 
+- De gemiddelde tijd nodig voor 1 functie te bedienen via de spraakherkenning =	3.132 s 
 
-De totale gemiddelde tijd nodig voor 1 functie te bedienen via de spraakherkenning =	3.132 s 
+Tijdens het testen met het prototype waren voor al de gebruikers de bediening van de functies duidelijk behalve die van de airco, bij een paar gebruikers was er verwarring toen deze de blaasintensiteit of de temperatuur moesten aanpassen. Dit kwam doordat deze functies in een menu zaten die tevoorschijn kwam bij het ingedrukt houden van deze knop. Maar toen de gebruiker verteld werd hoe de functie gebruikt moest worden was dit geen probleem meer later in de test. 
 
-Tijdens het testen met het prototype waren voor al de gebruikers de bediening van de functies duidelijk behalve die van de airco, bij een paar gebruikers was er verwarring toen deze de blaasintensiteit of de temperatuur moesten aanpassen. Dit kwam doordat deze functies in een menu zaten die tevoorschijn kwam bij het ingedrukt houden van deze knop. Maar toen de gebruiker verteld werd hoe e functie gebruikt moest worden was dit geen probleem meer later in de test. Toen de twee verschillende testen werden vergeleken was de test met de test spraakbediening merkelijk langer dan de test waarbij de knoppen gebruikt werden. Dit komt omdat een functie enkel met spraakbediening gebruikt kan worden door eerst op de spreek knop te duwen en daarna de boodschap in te spreken.
 
 ### Conclusies & implicaties
 Uit de test zien we dat de tijd die nodig is om een functie te bedienen aan de hand van spraakherkenning 3 a 4 keer langer duurt dan via een knop. Wat we wel duidelijk als feedback van de testpersonen terugkregen is dat voor iemand die geen ervaring heeft met het systeem het veel gemakkelijker is om de functie te bedienen met je stem. 
 Hierdoor wordt toch aangeraden om de mogelijkheid te behouden om de funties te bedienen met je stem.
 
 #### Product Requirements
+Dit onderzoek leid tot een paar product requirements:
 - Alle functies moeten bedienbaar zijn via je stem
 - Alle functies moeten bedienbaar zijn via een knop
 

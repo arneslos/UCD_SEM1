@@ -342,7 +342,7 @@ Na de expert reviews is het concept en het prototype bijgewerkt en zijn er user 
 ### Resultaten
 
 ( evaluatieschema Ruben Rimbout )
-heuristieken	Score /10	Doorslag score
+| **heuristieken** | **Score /10** | **Doorslag score** |
 Laat zien wat er gebeurt	6	1 x
 Biedt zekerheid en controle	7.5	1.2 x
 Foutpreventie	8	1 x

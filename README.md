@@ -418,10 +418,14 @@ De totale gemiddelde tijd nodig voor 1 functie te bedienen via de spraakherkenni
 
 Tijdens het testen met het prototype waren voor al de gebruikers de bediening van de functies duidelijk behalve die van de airco, bij een paar gebruikers was er verwarring toen deze de blaasintensiteit of de temperatuur moesten aanpassen. Dit kwam doordat deze functies in een menu zaten die tevoorschijn kwam bij het ingedrukt houden van deze knop. Maar toen de gebruiker verteld werd hoe e functie gebruikt moest worden was dit geen probleem meer later in de test. Toen de twee verschillende testen werden vergeleken was de test met de test spraakbediening merkelijk langer dan de test waarbij de knoppen gebruikt werden. Dit komt omdat een functie enkel met spraakbediening gebruikt kan worden door eerst op de spreek knop te duwen en daarna de boodschap in te spreken.
 
-
 ### Conclusies & implicaties
 Uit de test zien we dat de tijd die nodig is om een functie te bedienen aan de hand van spraakherkenning 3 a 4 keer langer duurt dan via een knop. Wat we wel duidelijk als feedback van de testpersonen terugkregen is dat voor iemand die geen ervaring heeft met het systeem het veel gemakkelijker is om de functie te bedienen met je stem. 
 Hierdoor wordt toch aangeraden om de mogelijkheid te behouden om de funties te bedienen met je stem.
+
+#### Product Requirements
+- Alle functies moeten bedienbaar zijn via je stem
+- Alle functies moeten bedienbaar zijn via een knop
+
 
 ## Finale conclusie
 

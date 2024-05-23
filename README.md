@@ -381,7 +381,7 @@ Bij de bediening van de Airco is het vaak onduidelijk hoe het precies werkt en i
 
 #### Product Requirements ivm ergonomie met de knoppen
 - Diameter symbolen : 18 mm
-- Bedienen airco < 0,5 sec
+- Bedienen airco < 1 sec
 - Locatie knoppen volgens indeling wagen
 - Functie draaiknop toevoegen 
 - De knop oplichten wanneer de functie bediend is

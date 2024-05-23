@@ -342,27 +342,14 @@ Na de expert reviews is het concept en het prototype bijgewerkt en zijn er user 
 ### Resultaten
 
 ( evaluatieschema Ruben Rimbout )
-heuristieken
-Score /10
-Doorslag score
-Laat zien wat er gebeurt
-6
-1 x
-Biedt zekerheid en controle
-7.5
-1.2 x
-Foutpreventie
-8
-1 x
-Flexibiliteit en efficiëntie van gebruik
-7
-1.2 x
-Esthetisch en simpel design
-6.5
-1 x
-Help de gebruiker met het herkennen, oplossen, ... van fouten
-8
-1 x
+heuristieken	Score /10	Doorslag score
+Laat zien wat er gebeurt	6	1 x
+Biedt zekerheid en controle	7.5	1.2 x
+Foutpreventie	8	1 x
+Flexibiliteit en efficiëntie van gebruik	7	1.2 x
+Esthetisch en simpel design	6.5	1 x
+Help de gebruiker met het herkennen, oplossen, ... van fouten	8	1 x
+
 
 
 Totale score: 7.65 / 10

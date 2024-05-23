@@ -304,8 +304,8 @@ Na het testen van de knop grootte kan er besloten worden dat hoe groter de knop 
 De afstand dat de persoon van de knoppen verwijderd is heeft ook een invloed op de aantal keer dat het gelukt is om de gevraagde knop in te drukken. Hoe dichter de bestuurder bij de knoppen zit hoe hoger de kans dat een knop goed word ingedrukt.
 
 ### Conclusies & implicaties
-De geteste theoretische afstand van de schouder tot de knoppen is een afstand die niet vastgelegd kan worden aangezien hier geen rekening word gehouden met de hoogte die de stoel van de bestuurder heeft. Er is ook geen rekening gehouden dat de bestuurder eventueel problemen kan hebben met de aftand tot het stuur of tot de pedalen van de wagen.
-Uit de resultaten van de testen blijkt dat de beste keuze voor de maat van knop de XL knoppen zijn. Deze hebben bij een variatie van de theoretisch berekende afstand die tussen de knoppen en de schouder zit nog steeds de grootste om correct ingedrukt te worden. 
+De geteste theoretische afstand van de schouder tot de knoppen is een afstand die niet vastgelegd kan worden aangezien hier geen rekening word gehouden met de hoogte die de stoel van de bestuurder heeft. Er is ook geen rekening gehouden met het feit dat de bestuurder eventueel problemen kan hebben met de aftand tot het stuur of tot de pedalen van de wagen.
+Uit de resultaten van de testen blijkt dat de beste keuze voor de maat van knop de XL knoppen zijn. Deze hebben bij een variatie van de theoretisch berekende afstand die tussen de knoppen en de schouder zit nog steeds de grootste kans om correct ingedrukt te worden. 
 Dit is heel belangrijk want effecten van trillingen tijdens het rijden met de wagen zijn in deze test niet aanwezig waardoor een sterk verminderd slaagpercentage zeker niet uitgesloten is. 
 De afmetingen van de XL knop kunnen nog groter gemaakt worden om een nog betere kans te krijgen dat de knop correct wordt ingedrukt. Maar dit zal als gevolg hebben dat ze te afleidend worden en te veel plaats innemen, hierdoor zou het ook kunnen zijn dat de uiterste knop te ver van de bestuurder verwijderd is om die nog op een goede manier in te drukken. 
 

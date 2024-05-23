@@ -310,6 +310,13 @@ Uit de resultaten van de testen blijkt dat de beste keuze voor de maat van knop 
 Dit is heel belangrijk want effecten van trillingen tijdens het rijden met de wagen zijn in deze test niet aanwezig waardoor een sterk verminderd slaagpercentage zeker niet uitgesloten is. 
 De afmetingen van de XL knop kunnen nog groter gemaakt worden om een nog betere kans te krijgen dat de knop correct wordt ingedrukt. Maar dit zal als gevolg hebben dat ze te afleidend worden en te veel plaats innemen, hierdoor zou het ook kunnen zijn dat de uiterste knop te ver van de bestuurder verwijderd is om die nog op een goede manier in te drukken. 
 
+#### Product Requirements ivm ergonomie met de knoppen
+- Astand van schouder tot elke knop Mean: 907 mm P5: 796 mm P95: 1018 mm  
+- Astand van schouder tot draaiknop: Mean: 907 mm P5: 796 mm P95: 1018 mm 
+- Afmetingen knop: h=32 mm, b=34.5 mm
+- n=8
+- 1 draaiknop dichtst bij de bestuurder: meest gebruikte functie
+
 
 ## Develop 2: Human Mind
 ### Doelstellingen

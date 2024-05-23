@@ -293,6 +293,12 @@ Na het berekenen van de waarde werd er een armlengte tot de vinger van 907 milli
 Bij het testen van deze waarde bleek deze niet te kloppen, hierna werd de databank en de berekening nog eens bekeken en werd er opgemerkt dat de lengte van de handpalm twee keer werd meegerekend. Als de test een tweede maal werd uitgevoerd waarbij er wel rekening gehouden werd met de lengte van de handpalm, dus de afstand van de stoel tot het dashboard werd verminderd met de lengte van de handpalm. Dan waren de testpersonen in staat om het dashboard aan te raken.
 Na het testen van de knop grootte kan er besloten worden dat hoe groter de knop is hoe minder fouten er worden gemaakt. De knoppen zouden nog groter gemaakt kunnen worden maar dit kan dan weer voor meer afleiding zorgen aangezien het lcd knoppen zijn die een beeld weergeven. De afstand van de persoon tot de knoppen had ook een invloed op het aantal keer dat het gelukt was om de gevraagde maat van knop in te drukken.
 
+**Mean**: 907 mm
+**Sd**: 47.59 mm
+**P5**: 796 mm
+**P95**: 1018 mm
+**Populatie**: Dutch Adults, 20-60, mixed
+
 
 | knopgroote	| fouten bij berekende afstand | fouten bij	kortere afstand | fouten bij langere afstand |
 | ------------- | ------------- |  ------------- |  ------------- | 

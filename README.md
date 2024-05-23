@@ -329,6 +329,10 @@ De afmetingen van de XL knop kunnen nog groter gemaakt worden om een nog betere 
 Tijdens de tweede develop fase is het doel een geoptimaliseerd ontwerp te bekomen om later finale testen mee uit te voeren. Het geoptimaliseerd ontwerp is bekomen aan de hand van een conceptueel model, expert reviews en usability tests. 
 
 ### Materiaal & methoden
+Eerst werd er een conceptueel model opgesteld.
+![conceptueel_model_1](https://github.com/arneslos/UCD_SEM1/assets/159801398/fbf1923e-998a-41ce-82c3-e2886aab2fcf)
+Dit werd gebruikt om voor de test eerst te verduidelijken wat ons onderzoek is en wat de functionaliteit is van ons product binnen het volledige dashboard van de wagen.
+
 Om de testen in de twede develop fase af te nemen is er een prototype met figma en een ge-3D-print frame om een gsm in te monteren gemaakt. De grote van de knoppen is gebaseerd op de test van de vorige fase. Het figma bestand heeft een standaard configuratie van interactieve knoppen om te test voor iedere gebruiker gelijk te doen verlopen. Zo kunnen de uikomsten beter vergeleken worden. De gekozen functies voor de knoppen waren: de zetelverwarming van de bestuurder/ passagier aan of uit zetten, de voor- of achterruitverwarming aan of uit zetten, al het geluid van de wagen dempen, de spraakbediening activeren, en de airco bedienen. De bediening van de airco werkt met een menu die opent als de knop wordt ingedrukt. Dan komt er de keuze om deze aan of uit te zetten en om die harder of zachter te zetten. Om de gebruiker feedback te geven wordt er gebruik gemaakt van geluiden die met een apparte computer worden afgespeeld, hiermee simuleren zoveel mogelijk een echte wagen.
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/894bc574-eab0-4b4e-ae51-aff1f3e054f7)
 

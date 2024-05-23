@@ -276,9 +276,9 @@ concept hierdoor kwamen er ook meer bevestiging van de gekozen oplossingen/ conc
 
 ## Methdologie semester 2
 
-![Tijdlijn](https://github.com/arneslos/UCD_SEM1/assets/159801398/3db2c8e4-85f0-4005-8ae8-d530b7a9ad4b)
-
 In het tweede semester is er ingezoomd in het project op de bediening van de functies met de acht knoppen. Tijdens het eerste simester werd er gebruik gemaakt van de methodologie van Roozenburg & Eekels. Deze methodologie heeft een grote overeenkomst met de een dubble diamond methodologie waar er in de tweede en in de zesde fase word gedivergeerd. In de zesde fase word er twee keer gedivergeerd over twee aspecten van het ontwerp. In de vierde en achtste fase wordt geconvergeerd. In het tweede semester word er nog een laatste maal gedivergeerd en geconvergeerd. Dit gebeurd in 3 develop fases waar er telkens naar een ander aspect gekeken word om verbeteringen van het product te onderzoeken. In de eerste fase word de focus gelegd op lichaamsgerelateerde parameters. In de tweede fase word er gefocust op de gebruiksvriendelijkheid van het product. In de derde en laatste fase word er onderzocht wat de verschillende mogelijke vormen van interactie zijn met het product. Het doel is om na het doorlopen van deze laatste diamond een finaal concept te bekomen voor de bediening van de functies in de wagen tijdens het rjijden.
+
+![Tijdlijn](https://github.com/arneslos/UCD_SEM1/assets/159801398/3db2c8e4-85f0-4005-8ae8-d530b7a9ad4b)
 
 ## Develop 1: Human Body
 ### Doelstellingen

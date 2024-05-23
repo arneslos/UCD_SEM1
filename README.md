@@ -349,7 +349,7 @@ Als eerste stap zijn er twee expert reviews afgenomen. Het concept werd aan de e
 Nadat de experts het concept gescoord hebben maken die een conceptuele schets van een dashboard waarbij ze de knoppen tekenden en eventuele bedenkingen bij de knoppen of de functie hiervan. Er werd ook gevraagd aan de experts om zelf een voorstel van een dashboard met knoppen en de functies hiervan te schetsen.
 Na de expert reviews is het concept en het prototype bijgewerkt en zijn er user tests uitgevoerd. Bij deze testen krijgt de gebruiker het prototype eerst te zien en overloopt deze al de knoppen en zegt wat de eventuele functie van elke knop zou kunnen zijn. Tijdens het overlopen van de functies die de knoppen hebben word de gebruiker telkens gezegd of deze goed of fout is en wat de functie dan wel is. Na het overlopen word de gebruiker gevraagd om zich in te beelden dat die aan het rijden is in een wagen. Tijdens de test word de gebruiker gevraagd om verschillende functies uit te voeren. Er word gewerkt met een Wizard Of Oz methode waarbij er verschillende geluiden worden afgespeeld als de gebruiker bepaalde handelingen uitvoert. De handelingen die de gebruiker uitvoert worden ook getimed om te ondervinden welke functie veel tijd inneemt en dus vereenvoudigd moet worden. Als de test afgelopen is word de gebruiker bevraagd over hoe deze het prototype ervaren heeft.
 
-![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/7466d679-75a6-4eda-92de-61cbd60f46a2)
+![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/ff418ae2-82c3-4663-9edf-43e1b5ee1c00)
 
 
 ### Resultaten

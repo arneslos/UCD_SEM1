@@ -326,7 +326,7 @@ De afmetingen van de XL knop kunnen nog groter gemaakt worden om een nog betere 
 
 ## Develop 2: Human Mind
 ### Doelstellingen
-Tijdens de tweede develop fase is het doel een geoptimaliseerd ontwerp te bekomen om later finale testen mee uit te voeren. Het geoptimaliseerd ontwerp is bekomen door expert reviews en usability tests uit te voeren. 
+Tijdens de tweede develop fase is het doel een geoptimaliseerd ontwerp te bekomen om later finale testen mee uit te voeren. Het geoptimaliseerd ontwerp is bekomen aan de hand van een conceptueel model, expert reviews en usability tests. 
 
 ### Materiaal & methoden
 Om de testen in de twede develop fase af te nemen is er een prototype met figma en een ge-3D-print frame om een gsm in te monteren gemaakt. De grote van de knoppen is gebaseerd op de test van de vorige fase. Het figma bestand heeft een standaard configuratie van interactieve knoppen om te test voor iedere gebruiker gelijk te doen verlopen. Zo kunnen de uikomsten beter vergeleken worden. De gekozen functies voor de knoppen waren: de zetelverwarming van de bestuurder/ passagier aan of uit zetten, de voor- of achterruitontwaseming aan of uit zetten, al het geluid van de wagen dempen, de spraakbediening activeren, en de airco dedienen. De bediening van de airco werkt met een menu die opent als de knop word ingedrukt. Dan komt er de keuze om deze aan of uit te zetten en om die harder of zachter te zetten. Om de gebruiker feedback te geven word er gebruik gemaakt van geluiden die met een apparte computer worden afgespeeld.

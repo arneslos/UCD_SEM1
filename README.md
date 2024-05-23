@@ -275,6 +275,9 @@ Door de individueel onderzoeken samen te voegen ontstonden er meer invalshoeken 
 concept hierdoor kwamen er ook meer bevestiging van de gekozen oplossingen/ concept. 
 
 ## Methdologie semester 2
+
+![Tijdlijn](https://github.com/arneslos/UCD_SEM1/assets/159801398/3db2c8e4-85f0-4005-8ae8-d530b7a9ad4b)
+
 In het tweede semester is er ingezoomd in het project op de bediening van de functies met de acht knoppen. Tijdens het eerste simester werd er gebruik gemaakt van de methodologie van Roozenburg & Eekels. Deze methodologie heeft een grote overeenkomst met de een dubble diamond methodologie waar er in de tweede en in de zesde fase word gedivergeerd en in de vierde en achtste fase wordt geconvergeerd. In het tweede semester word er nog een laatste maal gedivergeerd en geconvergeerd. Dit gebeurd in 3 develop fases waar er telkens naar een ander aspect gekeken word om verbeteringen van het product te onderzoeken. In de eerste fase word de focus gelegd op lichaamsgerelateerde parameters. In de tweede fase word er gefocust op de gebruiksvriendelijkheid van het product. In de derde en laatste fase word er onderzocht wat de verschillende mogelijke vormen van interactie zijn met het product. Het doel is om na het doorlopen van deze laatste diamond een finaal concept te bekomen voor de bediening van de functies in de wagen tijdens het rjijden.
 
 ## Develop 1: Human Body
@@ -408,7 +411,13 @@ Dit concept wordt weer getest aan de hand van een wizard of ozz scenario. De geb
 
 
 ### Resultaten
-Tijdens het testen met het prototype waren voor al de gebruikers de bediening van de functies duidelijk behalve die van de airco, bij een paar gebruikers was er verwarring toen deze de blaasintensiteit of de temperatuur moesten aanpassen. Dit kwam doordat deze functies in een menu zaten die tevoorschijn kwam bij het ingedrukt houden van deze knop. Maar toen de gebruiker verteld werd hoe e functie gebruiikt moet worden was dit geen probleem meer later in de test. Toen de twee verschillende testen werden vergeleken was de test met de test spraakbediening merkelijk langer dan de test waarbij de knoppen gebruikt werden. Dit komt omdat een functie enkel met spraakbediening gebruikt kan worden door eerst op de spreek knop te duwen en daarna de boodschap in te spreken.
+
+
+| De totale gemiddelde tijd nodig voor 1 functie te bedienen via een knop |	0.774 s |
+| De totale gemiddelde tijd nodig voor 1 functie te bedienen via de spraakherkenning |	3.132 s |
+
+Tijdens het testen met het prototype waren voor al de gebruikers de bediening van de functies duidelijk behalve die van de airco, bij een paar gebruikers was er verwarring toen deze de blaasintensiteit of de temperatuur moesten aanpassen. Dit kwam doordat deze functies in een menu zaten die tevoorschijn kwam bij het ingedrukt houden van deze knop. Maar toen de gebruiker verteld werd hoe e functie gebruikt moest worden was dit geen probleem meer later in de test. Toen de twee verschillende testen werden vergeleken was de test met de test spraakbediening merkelijk langer dan de test waarbij de knoppen gebruikt werden. Dit komt omdat een functie enkel met spraakbediening gebruikt kan worden door eerst op de spreek knop te duwen en daarna de boodschap in te spreken.
+
 
 ### Conclusies & implicaties
 Uit de test zien we dat de tijd die nodig is om een functie te bedienen aan de hand van spraakherkenning 3 a 4 keer langer duurt dan via een knop. Wat we wel duidelijk als feedback van de testpersonen terugkregen is dat voor iemand die geen ervaring heeft met het systeem het veel gemakkelijker is om de functie te bedienen met je stem. 

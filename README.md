@@ -353,10 +353,10 @@ Na de expert reviews is het concept en het prototype bijgewerkt en zijn er user 
 
 | heuristieken	| Score /10 | Doorslag score |
 | ------------- | ------------- |  ------------- |
-| XL |	 4 /40 |	4 /40 |
-| M |	 6 /40 |	5 /40 |
+| Laat zien wat er gebeurt |	 6 |	1 x |
+| M |	 6 /40 |	1.2 x |
 | S |	 8 /40 |	6 /40 |
-| XS |	 15 /40 |	12 /40 |
+| XS |	 15 /40 |	1.2 x |
 
 
 

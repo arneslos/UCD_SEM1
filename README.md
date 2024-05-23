@@ -412,9 +412,9 @@ Dit concept wordt weer getest aan de hand van een wizard of ozz scenario. De geb
 
 ### Resultaten
 
+De totale gemiddelde tijd nodig voor 1 functie te bedienen via een knop =	0.774 s 
 
-| De totale gemiddelde tijd nodig voor 1 functie te bedienen via een knop |	0.774 s |
-| De totale gemiddelde tijd nodig voor 1 functie te bedienen via de spraakherkenning |	3.132 s |
+De totale gemiddelde tijd nodig voor 1 functie te bedienen via de spraakherkenning =	3.132 s 
 
 Tijdens het testen met het prototype waren voor al de gebruikers de bediening van de functies duidelijk behalve die van de airco, bij een paar gebruikers was er verwarring toen deze de blaasintensiteit of de temperatuur moesten aanpassen. Dit kwam doordat deze functies in een menu zaten die tevoorschijn kwam bij het ingedrukt houden van deze knop. Maar toen de gebruiker verteld werd hoe e functie gebruikt moest worden was dit geen probleem meer later in de test. Toen de twee verschillende testen werden vergeleken was de test met de test spraakbediening merkelijk langer dan de test waarbij de knoppen gebruikt werden. Dit komt omdat een functie enkel met spraakbediening gebruikt kan worden door eerst op de spreek knop te duwen en daarna de boodschap in te spreken.
 

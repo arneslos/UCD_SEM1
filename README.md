@@ -278,7 +278,7 @@ concept hierdoor kwamen er ook meer bevestiging van de gekozen oplossingen/ conc
 
 ![Tijdlijn](https://github.com/arneslos/UCD_SEM1/assets/159801398/3db2c8e4-85f0-4005-8ae8-d530b7a9ad4b)
 
-In het tweede semester is er ingezoomd in het project op de bediening van de functies met de acht knoppen. Tijdens het eerste simester werd er gebruik gemaakt van de methodologie van Roozenburg & Eekels. Deze methodologie heeft een grote overeenkomst met de een dubble diamond methodologie waar er in de tweede en in de zesde fase word gedivergeerd en in de vierde en achtste fase wordt geconvergeerd. In het tweede semester word er nog een laatste maal gedivergeerd en geconvergeerd. Dit gebeurd in 3 develop fases waar er telkens naar een ander aspect gekeken word om verbeteringen van het product te onderzoeken. In de eerste fase word de focus gelegd op lichaamsgerelateerde parameters. In de tweede fase word er gefocust op de gebruiksvriendelijkheid van het product. In de derde en laatste fase word er onderzocht wat de verschillende mogelijke vormen van interactie zijn met het product. Het doel is om na het doorlopen van deze laatste diamond een finaal concept te bekomen voor de bediening van de functies in de wagen tijdens het rjijden.
+In het tweede semester is er ingezoomd in het project op de bediening van de functies met de acht knoppen. Tijdens het eerste simester werd er gebruik gemaakt van de methodologie van Roozenburg & Eekels. Deze methodologie heeft een grote overeenkomst met de een dubble diamond methodologie waar er in de tweede en in de zesde fase word gedivergeerd. In de zesde fase word er twee keer gedivergeerd over twee aspecten van het ontwerp. In de vierde en achtste fase wordt geconvergeerd. In het tweede semester word er nog een laatste maal gedivergeerd en geconvergeerd. Dit gebeurd in 3 develop fases waar er telkens naar een ander aspect gekeken word om verbeteringen van het product te onderzoeken. In de eerste fase word de focus gelegd op lichaamsgerelateerde parameters. In de tweede fase word er gefocust op de gebruiksvriendelijkheid van het product. In de derde en laatste fase word er onderzocht wat de verschillende mogelijke vormen van interactie zijn met het product. Het doel is om na het doorlopen van deze laatste diamond een finaal concept te bekomen voor de bediening van de functies in de wagen tijdens het rjijden.
 
 ## Develop 1: Human Body
 ### Doelstellingen
@@ -333,16 +333,20 @@ Tijdens de tweede develop fase is het doel een geoptimaliseerd ontwerp te bekome
 
 ### Materiaal & methoden
 Eerst werd er een conceptueel model opgesteld.
+
 ![conceptueel_model_1](https://github.com/arneslos/UCD_SEM1/assets/159801398/fbf1923e-998a-41ce-82c3-e2886aab2fcf)
+
 Dit werd gebruikt om voor de test eerst te verduidelijken wat ons onderzoek is en wat de functionaliteit is van ons product binnen het volledige dashboard van de wagen.
 
 Om de testen in de tweede develop fase af te nemen is er een prototype met figma en een ge-3D-print frame om een gsm in te monteren gemaakt. De grote van de knoppen is gebaseerd op de test van de vorige fase. Het figma bestand heeft een standaard configuratie van interactieve knoppen om te test voor iedere gebruiker gelijk te doen verlopen. Zo kunnen de uikomsten beter vergeleken worden. De gekozen functies voor de knoppen waren: de zetelverwarming van de bestuurder/ passagier aan of uit zetten, de voor- of achterruitverwarming aan of uit zetten, al het geluid van de wagen dempen, de spraakbediening activeren, en de airco bedienen. De bediening van de airco werkt met een menu die opent als de knop wordt ingedrukt. Dan komt er de keuze om deze aan of uit te zetten en om die harder of zachter te zetten. Om de gebruiker feedback te geven wordt er gebruik gemaakt van geluiden die met een apparte computer worden afgespeeld, hiermee simuleren zoveel mogelijk een echte wagen.
+
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/894bc574-eab0-4b4e-ae51-aff1f3e054f7)
 
 Als eerste stap zijn er twee expert reviews afgenomen. Het concept werd aan de experten uitgelegd. Hierna werd er aan de experts gevraagd om het concept en hert prototype scores te geven aan de hand van de heuristieken van Nielsen. De heuristieken die vergeleken werden zijn op voorhand gekozen. Alleen de meest relevante heuristieken, die he meest bij de ontwerp parameters van het project passen zijn gekozen. De heuristieken kregen elk ook een doorslagscore om zo de belangrijkste focuspunten harder door te laten wegen. 
 
 Nadat de experts het concept gescoord hebben maken die een conceptuele schets van een dashboard waarbij ze de knoppen tekenden en eventuele bedenkingen bij de knoppen of de functie hiervan. Er werd ook gevraagd aan de experts om zelf een voorstel van een dashboard met knoppen en de functies hiervan te schetsen.
 Na de expert reviews is het concept en het prototype bijgewerkt en zijn er user tests uitgevoerd. Bij deze testen krijgt de gebruiker het prototype eerst te zien en overloopt deze al de knoppen en zegt wat de eventuele functie van elke knop zou kunnen zijn. Tijdens het overlopen van de functies die de knoppen hebben word de gebruiker telkens gezegd of deze goed of fout is en wat de functie dan wel is. Na het overlopen word de gebruiker gevraagd om zich in te beelden dat die aan het rijden is in een wagen. Tijdens de test word de gebruiker gevraagd om verschillende functies uit te voeren. Er word gewerkt met een Wizard Of Oz methode waarbij er verschillende geluiden worden afgespeeld als de gebruiker bepaalde handelingen uitvoert. De handelingen die de gebruiker uitvoert worden ook getimed om te ondervinden welke functie veel tijd inneemt en dus vereenvoudigd moet worden. Als de test afgelopen is word de gebruiker bevraagd over hoe deze het prototype ervaren heeft.
+
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/7466d679-75a6-4eda-92de-61cbd60f46a2)
 
 
@@ -379,10 +383,12 @@ Tijdens het uitvoeren van de user tests bleek dat er veel onduidelijkheid was ro
 
 ### Conclusies & implicaties
 Bij de bediening van de Airco is het vaak onduidelijk hoe het precies werkt en is de bediening met de knoppen niet zo vlot, een optie om dit vlotter te laten werken is door de omstaande functies zwart te maken en de bediening van de AC via de draaiknop te laten verlopen. Er moet ook een duidelijk zichtbare temperatuur en blaashardheid aangegeven worden. Er kan ook een navigatie functie toegevoegd worden dit kan eventueel met vooraf ingestelde adressen die dan op een knop in die menu geprogrammeerd staan. Verder willen we de locatie van de knoppen op een logischere positie rangschikken en de feedback duidelijker laten verlopen.
+
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/d04bf094-b426-42df-b8e7-d7951fe5ada6)
 
 
 #### Product Requirements ivm ergonomie met de knoppen
+
 - Diameter symbolen : 18 mm
 - Bedienen airco < 1 sec
 - Locatie knoppen volgens indeling wagen
@@ -397,6 +403,7 @@ Het doel is om een finaal en geoptimaliseerd prototype van de knoppen te bekomen
 
 ### Materiaal & methoden
 Als eerste stap werd er een funtieboom gemaakt om de verschillende handelingen in kaart te brengen in de verschillende situaties en om dan een gepasten feedbackt te voorzien bij de handelingen.
+
 [Taakanalyse](https://lucid.app/lucidspark/a29f5345-b2c6-4360-82b3-dcbd95d4308d/edit?beaconFlowId=8583B9BEC7D35FA3&invitationId=inv_679c655a-8b6a-4bfd-9d54-b0bca86bb100&page=0_0#)
 ![Taakanalyse](https://github.com/arneslos/UCD_SEM1/assets/159801398/79563014-12a5-45b4-a089-6af5ac1e5729)
 
@@ -407,6 +414,7 @@ Voor elke functie hebben we minimaal 2 mogelijkheden hoe we deze kunnen bedienen
 
 Om het aangepaste prototype te testen werd er gebruik gamaakt van een nieuw prototype. Er werd een frame ge-3D-print om een gsm in te monteren, bij dit prototype werd er ook een draaiknop toegevoegd. Er werd ook gekozen om met protopie te werken omdat dit programma meer opties biedt op het vlak van feedback en input. De layout van de knoppen werd aangepast op basis van de feedback in de vorige fase. Er werd ook voor een visuele feedback en audio aangezien de gebruikers hiermee moeite hadden in de vorige test. Er werd ook een navigatiefunctie toegevoegd. Deze functie heeft een paar vooraf ingestelde adressen om ze tijdens het rijden snel in te stellen, als de bestuurder een ander adres wilt berijken kan deze dat ingeven aan de hand van de spraakbediening. De airco functie is ook bijgewerkt zodat deze aan of uit gaat als de knop wordt ingerdukt en er er een menu tevoorschijn komt als deze ingedrukt wordt gehouden. In deze menu krijgt de bestuurder de opties om de blaas intensiteit te verhogen of te verlagen en ook om de temperatuur te verhogen of te verlagen. De temperatuur wordt ook duidelijk weergegeven.
 Dit concept wordt weer getest aan de hand van een wizard of ozz scenario. De gebruiker wordt opnieuw gevraagd om zich in te beelden dat die aan het rijden is met een auto en om dan verschillende functies uit te voeren. Dit wordt twee keer gedaan, één keer waarbij de gebruiker de knoppen gebruikt om de functies te activeren en één keer waarbij de bebruiker de spraakbediening gebruikt om de functies te activeren. Bij beide testen wordt er bijgehouden hoeveel tijd de handeling in beslag neemt om later te vergelijken met elkaar.
+
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/b700a3a4-81bc-4a57-8edd-a3c2ba653c7c)
 
 

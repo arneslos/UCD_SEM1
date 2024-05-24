@@ -597,32 +597,32 @@ https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie
 3 Miro: https://miro.com/welcomeonboard/aTl3Sm0yb1lUWmlzU3RwNUQ1ZjByam1nNVM3S0FTNWNCUkhjcFlodUZhdWphd0pWZUpiRG9HanNNSENxYWcwdnwzMDc0NDU3MzY0ODc4MTMxMTU4fDI=?share_link_id=531594994039 
 
 4 Discovery
-  - Design Ethnography
-    - [protocol](https://drive.google.com/file/d/1AdVoeefTQNNnNY_dTrXtfLXoVZDjnzLm/view?usp=drive_link)
-    - [report](https://drive.google.com/file/d/19WuiClgjZXmVs2_SkV7SUFBsc1OCqoEU/view?usp=drive_link)
+  4.1 Design Ethnography
+    4.1.1 [protocol](https://drive.google.com/file/d/1AdVoeefTQNNnNY_dTrXtfLXoVZDjnzLm/view?usp=drive_link)
+    4.1.2 [report](https://drive.google.com/file/d/19WuiClgjZXmVs2_SkV7SUFBsc1OCqoEU/view?usp=drive_link)
 
-  - Benchmarking
-    - [protocol](https://drive.google.com/file/d/1jO9PHBk6aOt327gKf3AhZUQNIHvjKzZq/view?usp=drive_link)
-    - [report](https://drive.google.com/file/d/1wbz_NgpH3xfFmPYBghqxKPV7KHRvV22M/view?usp=drive_link)
+  4.2 Benchmarking
+    4.2.1 [protocol](https://drive.google.com/file/d/1jO9PHBk6aOt327gKf3AhZUQNIHvjKzZq/view?usp=drive_link)
+    4.2.2 [report](https://drive.google.com/file/d/1wbz_NgpH3xfFmPYBghqxKPV7KHRvV22M/view?usp=drive_link)
 
-  - Gebruiker Interviews
-    - [protocol](https://docs.google.com/document/d/1e-_irgPuqvijx_TaQfB4gYeBgC1f_Bq4/edit?usp=drive_link&ouid=107004077216728895200&rtpof=true&sd=true)
-    - [report](https://docs.google.com/document/d/1I5jWhQwQX3hNxWR-BSMEjLxwbaMzzTg465A3xy4uzbk/edit?usp=drive_link)
+  4.3 Gebruiker Interviews
+    4.3.1 [protocol](https://docs.google.com/document/d/1e-_irgPuqvijx_TaQfB4gYeBgC1f_Bq4/edit?usp=drive_link&ouid=107004077216728895200&rtpof=true&sd=true)
+    4.3.2 [report](https://docs.google.com/document/d/1I5jWhQwQX3hNxWR-BSMEjLxwbaMzzTg465A3xy4uzbk/edit?usp=drive_link)
 
-  - Literatuurstudie
-    - [protocol](https://docs.google.com/document/d/1D-tIVRQHIYy5RQ8UibK9qkT87JWk0X5guj7h21v80LQ/edit?usp=drive_link)
-    - [report](https://docs.google.com/document/d/1qE0ca6DeLKIPyJ-GtrByASsIhslU_8xGCBJSwTPISm0/edit?usp=drive_link)
+  4.4 Literatuurstudie
+    4.4.1 [protocol](https://docs.google.com/document/d/1D-tIVRQHIYy5RQ8UibK9qkT87JWk0X5guj7h21v80LQ/edit?usp=drive_link)
+    4.4.2 [report](https://docs.google.com/document/d/1qE0ca6DeLKIPyJ-GtrByASsIhslU_8xGCBJSwTPISm0/edit?usp=drive_link)
 
 5 Definition
-  - Carboard Prototyping **Develop 1**
-    - [protocol](https://docs.google.com/document/d/1Lanw6UmlXtbWzeWdgII5X2cL_mVmAvAt/edit?usp=drive_link&ouid=107004077216728895200&rtpof=true&sd=true)
-    - [report](https://docs.google.com/document/d/1OMOw0FYqmWkzoKu3faw7BCcyv77aLKBJ/edit?usp=drive_link&ouid=107004077216728895200&rtpof=true&sd=true)
+  5.1 Carboard Prototyping **Develop 1**
+    5.1.1 [protocol](https://docs.google.com/document/d/1Lanw6UmlXtbWzeWdgII5X2cL_mVmAvAt/edit?usp=drive_link&ouid=107004077216728895200&rtpof=true&sd=true)
+    5.1.2 [report](https://docs.google.com/document/d/1OMOw0FYqmWkzoKu3faw7BCcyv77aLKBJ/edit?usp=drive_link&ouid=107004077216728895200&rtpof=true&sd=true)
 
-  - Figma Prototyping 2 **Develop 2**
-    - [protocol]()
-    - [report]()
+  5.2 Figma Prototyping 2 **Develop 2**
+    5.2.1 [protocol]()
+    5.2.2 [report]()
 
-  - Protopie Prototyping **Develop 3**
-    - [protocol]()
-    - [report]()
-    - [Taakanalyse](https://lucid.app/lucidspark/a29f5345-b2c6-4360-82b3-dcbd95d4308d/edit?beaconFlowId=8583B9BEC7D35FA3&invitationId=inv_679c655a-8b6a-4bfd-9d54-b0bca86bb100&page=0_0#)
+  5.3 Protopie Prototyping **Develop 3**
+    5.3.1 [protocol]()
+    5.3.2 [report]()
+    5.3.3 [Taakanalyse](https://lucid.app/lucidspark/a29f5345-b2c6-4360-82b3-dcbd95d4308d/edit?beaconFlowId=8583B9BEC7D35FA3&invitationId=inv_679c655a-8b6a-4bfd-9d54-b0bca86bb100&page=0_0#)

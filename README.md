@@ -580,7 +580,6 @@ Dit onderzoek leid tot een paar product requirements:
 
 
 ## Finale conclusie
-[Product Video](https://youtu.be/vIWIUqFRspU)
 Na onze afgelopen weg zijn we tevreden met het resultaat al zijn er hier en daar toch nog onduidelijkheiden. Het is moeilijk in te schatten hoe dit systeem zal samenwerken met de rest van het dashboardconcept. In theorie lijkt het zeker mogelijk uit te voeren en ziet het er een meerwaarde uit aan de rijervaring van zowel bestuurder als passagier, maar theorie is nooit werkelijkheid en zou dit volledig eerst moeten worden uitgewerkt worden om daarna te beslissen of dit een product is die al dan niet op de markt kan gelanceerd worden. 
 
 Op vlak van vooronderzoek (sem.1) lijkt het ons zeker een goede en succesvolle manier om aan de hand van benchmarking, shadowing en interviews zelf het probleem dieper te onderzoeken. Hiermee krijg je naast een breder beeld over de problematiek ook een idee hoe andere ontwerpers en bedrijven hetzelfde idee op hun manier op te lossen. 
@@ -591,6 +590,7 @@ Als laatste is het ook niet altijd zeker dat dit concept effectief iets dat toek
 
 We willen ook graag iedereen bedanken die meegewerkt heeft bij dit onderzoek, zowel bij de testen als bij feedback. 
 
+[Product Video](https://youtu.be/vIWIUqFRspU)
 
 ## Bronnen
 (Nws, 2021b) : Nws, V. (2021, 11 maart). Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: “Europese regels nodig”. vrtnws.be.

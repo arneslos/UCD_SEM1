@@ -592,11 +592,11 @@ Dit onderzoek leid tot een paar product requirements:
 https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keergevaarlijker-dan-r/#:~:text=%2D%2D%3A%2D%2D-,Aanraakschermen%20in%20je%20auto%20bedienen%20drie%20keer%20gevaarlijker%20dan%20rijden,het%20risico%20op%20een%20ongeval.
 
 ## Bijlagen
-- (Google drive): https://drive.google.com/drive/folders/1x8gPw4AJ5K4TxQPy2E_7yjYqFXD9Rf43?usp=sharing
-- Figma: https://www.figma.com/file/UazHZrtgUNHXp7b5WrkCnB/Untitled?type=design&nodeid=0%3A1&mode=design&t=L9cifeomLyC9PtCw-1
-- Miro: https://miro.com/welcomeonboard/aTl3Sm0yb1lUWmlzU3RwNUQ1ZjByam1nNVM3S0FTNWNCUkhjcFlodUZhdWphd0pWZUpiRG9HanNNSENxYWcwdnwzMDc0NDU3MzY0ODc4MTMxMTU4fDI=?share_link_id=531594994039 
+1 (Google drive): https://drive.google.com/drive/folders/1x8gPw4AJ5K4TxQPy2E_7yjYqFXD9Rf43?usp=sharing
+2 Figma: https://www.figma.com/file/UazHZrtgUNHXp7b5WrkCnB/Untitled?type=design&nodeid=0%3A1&mode=design&t=L9cifeomLyC9PtCw-1
+3 Miro: https://miro.com/welcomeonboard/aTl3Sm0yb1lUWmlzU3RwNUQ1ZjByam1nNVM3S0FTNWNCUkhjcFlodUZhdWphd0pWZUpiRG9HanNNSENxYWcwdnwzMDc0NDU3MzY0ODc4MTMxMTU4fDI=?share_link_id=531594994039 
 
-- Discovery
+4 Discovery
   - Design Ethnography
     - [protocol](https://drive.google.com/file/d/1AdVoeefTQNNnNY_dTrXtfLXoVZDjnzLm/view?usp=drive_link)
     - [report](https://drive.google.com/file/d/19WuiClgjZXmVs2_SkV7SUFBsc1OCqoEU/view?usp=drive_link)
@@ -613,7 +613,7 @@ https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie
     - [protocol](https://docs.google.com/document/d/1D-tIVRQHIYy5RQ8UibK9qkT87JWk0X5guj7h21v80LQ/edit?usp=drive_link)
     - [report](https://docs.google.com/document/d/1qE0ca6DeLKIPyJ-GtrByASsIhslU_8xGCBJSwTPISm0/edit?usp=drive_link)
 
-- Definition
+5 Definition
   - Carboard Prototyping **Develop 1**
     - [protocol](https://docs.google.com/document/d/1Lanw6UmlXtbWzeWdgII5X2cL_mVmAvAt/edit?usp=drive_link&ouid=107004077216728895200&rtpof=true&sd=true)
     - [report](https://docs.google.com/document/d/1OMOw0FYqmWkzoKu3faw7BCcyv77aLKBJ/edit?usp=drive_link&ouid=107004077216728895200&rtpof=true&sd=true)

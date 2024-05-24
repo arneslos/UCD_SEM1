@@ -384,23 +384,57 @@ Dit onderzoek leid tot een paar product requirements:
 
 ## Develop 2: Human Mind
 ### Doelstellingen
-Tijdens de tweede develop fase is het doel een geoptimaliseerd ontwerp te bekomen om later finale testen mee uit te voeren. Het geoptimaliseerd ontwerp is bekomen aan de hand van een conceptueel model, expert reviews en usability tests. 
+Het doel van de tweede develop fase is om een geoptimaliseerd ontwerp te bekomen
+en deze in de finale fase te testen. Het geoptimaliseerd ontwerp is bekomen aan de
+hand van een conceptueel model, expert reviews en usability tests.
 
 ### Materiaal & methoden
-Eerst werd er een conceptueel model opgesteld.
+De eerste stap was het opstellen van een conceptueel model.
 
 ![conceptueel_model_1](https://github.com/arneslos/UCD_SEM1/assets/159801398/fbf1923e-998a-41ce-82c3-e2886aab2fcf)
 
-Dit werd gebruikt om voor de test eerst te verduidelijken wat ons onderzoek is en wat de functionaliteit is van ons product binnen het volledige dashboard van de wagen.
+Dit model werd gebruikt het onderzoek te verduidelijken en de functionaliteit van ons
+product binnen het volledige dashboard van de wagen te duiden.
 
-Om de testen in de tweede develop fase af te nemen is er een prototype met figma en een ge-3D-print frame om een gsm in te monteren gemaakt. De grote van de knoppen is gebaseerd op de test van de vorige fase. Het figma bestand heeft een standaard configuratie van interactieve knoppen om te test voor iedere gebruiker gelijk te doen verlopen. Zo kunnen de uikomsten beter vergeleken worden. De gekozen functies voor de knoppen waren: de zetelverwarming van de bestuurder/ passagier aan of uit zetten, de voor- of achterruitverwarming aan of uit zetten, al het geluid van de wagen dempen, de spraakbediening activeren, en de airco bedienen. De bediening van de airco werkt met een menu die opent als de knop wordt ingedrukt. Dan komt er de keuze om deze aan of uit te zetten en om die harder of zachter te zetten. Om de gebruiker feedback te geven wordt er gebruik gemaakt van geluiden die met een apparte computer worden afgespeeld, hiermee simuleren zoveel mogelijk een echte wagen.
+Om de testen in de tweede develop fase af te nemen is er gebruik gemaakt van een
+prototype met figma en een 3D-print frame voor een GSM houder. De grote van de
+knoppen is gebaseerd op de resultaten van de test van de vorige fase. Het figma
+bestand heeft een standaard configuratie van interactieve knoppen. Door deze
+standardisatie kan de test voor iedere gebruiker gelijk verlopen en kunnen de resultaten
+objectief vergeleken worden. De gekozen functies voor de knoppen waren: de
+zetelverwarming van de bestuurder/ passagier bedienen, de voor- of
+achterruitverwarming bedienen, het dempen van rolggeluid van de wagen, de
+spraakbediening activeren en de airco bedienen. De bediening van de airco werkt met
+een menu dat opent als de knop wordt ingedrukt. Dan komt er de keuze om deze aan
+of uit te zetten en het volume te bepalen. Om de gebruiker feedback te geven wordt er
+gebruik gemaakt van geluiden die met een apparte computer worden weergegeven,
+hiermee simuleren zoveel mogelijk een echte wagen.
 
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/894bc574-eab0-4b4e-ae51-aff1f3e054f7)
 
-Als eerste stap zijn er twee expert reviews afgenomen. Het concept werd aan de experten uitgelegd. Hierna werd er aan de experts gevraagd om het concept en hert prototype scores te geven aan de hand van de heuristieken van Nielsen. De heuristieken die vergeleken werden zijn op voorhand gekozen. Alleen de meest relevante heuristieken, die he meest bij de ontwerp parameters van het project passen zijn gekozen. De heuristieken kregen elk ook een doorslagscore om zo de belangrijkste focuspunten harder door te laten wegen. 
+Als eerste stap zijn er twee expert reviews afgenomen. Na de uitleg van het concept
+werd aan de experts gevraagd om het concept en het prototype te scores aan de hand
+van de heuristieken van Nielsen. De heuristieken die vergeleken werden zijn op
+voorhand bepaald. Alleen de meest relevante heuristieken passend bij dit project zijn
+gekozen. De heuristieken kregen elk ook een doorslagscore om zo de belangrijkste
+focuspunten harder door te laten wegen. 
 
-Nadat de experts het concept gescoord hebben maken die een conceptuele schets van een dashboard waarbij ze de knoppen tekenden en eventuele bedenkingen bij de knoppen of de functie hiervan. Er werd ook gevraagd aan de experts om zelf een voorstel van een dashboard met knoppen en de functies hiervan te schetsen.
-Na de expert reviews is het concept en het prototype bijgewerkt en zijn er user tests uitgevoerd. Bij deze testen krijgt de gebruiker het prototype eerst te zien en overloopt deze al de knoppen en zegt wat de eventuele functie van elke knop zou kunnen zijn. Tijdens het overlopen van de functies die de knoppen hebben word de gebruiker telkens gezegd of deze goed of fout is en wat de functie dan wel is. Na het overlopen word de gebruiker gevraagd om zich in te beelden dat die aan het rijden is in een wagen. Tijdens de test word de gebruiker gevraagd om verschillende functies uit te voeren. Er word gewerkt met een Wizard Of Oz methode waarbij er verschillende geluiden worden afgespeeld als de gebruiker bepaalde handelingen uitvoert. De handelingen die de gebruiker uitvoert worden ook getimed om te ondervinden welke functie veel tijd inneemt en dus vereenvoudigd moet worden. Als de test afgelopen is word de gebruiker bevraagd over hoe deze het prototype ervaren heeft.
+Na het scoren hebben de experts ook een conceptuele schets van een dashboard
+gemaakt. Ze de hebben knoppen getekend en opmerkingen over de functie
+doorgegeven. De experts hebben zelf een voorstel van een dashboard met knoppen en
+de functies gemaakt. Met de input van de experts is het prototype bijgewerkt en zijn er
+verdere user tests uitgevoerd. Bij deze testen krijgt de gebruiker het prototype eerst te
+zien. De user overloopt al de knoppen geeft een eigen interpretie van wat hij denkt dat
+de functie van elke knop zou kunnen zijn. Tijdens het overlopen van de functies die de
+knoppen hebben word de gebruiker telkens gezegd of deze goed of fout is en wat de
+functie dan wel is. Na het overlopen word de gebruiker gevraagd om zich in te beelden
+dat die aan het rijden is in een wagen. Tijdens de test word de gebruiker gevraagd om
+verschillende functies uit te voeren. Er word gewerkt met een Wizard Of Oz methode
+waarbij er verschillende geluiden worden afgespeeld als de gebruiker bepaalde
+handelingen uitvoert. De handelingen die de gebruiker uitvoert worden ook getimed om
+te ondervinden welke functie veel tijd inneemt en dus vereenvoudigd moet worden. Als
+de test afgelopen is word de gebruiker bevraagd over hoe deze het prototype ervaren
+heeft.
 
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/ff418ae2-82c3-4663-9edf-43e1b5ee1c00)
 
@@ -433,11 +467,30 @@ Totale score: 7.65 / 10
 
 Totale score: 7.81667 / 10
 
-Uit de expert reviews kwamen er een paar onduidelijkheden naar boven bij het prototype. De plaatsing van de knoppen was niet logisch, de stoelverwarming van de bestuurder stond links onder en die van de passagier stond links boven.  De expert gaf aan dat dit beter aangepast kon worden naar de bestuurder links boven en de passagier rechts boven. Voor beide experts was het ook niet duidelijk dat er menu’s waren zoals bij de bediening van de airco. Het is in die menu nog steeds mogelijk om andere functies aan te klikken wat niet overzichtelijk is. Dit kan worden opgelost door wanneer de gebruiker in een menu werkt de niet gebruikte knoppen te dimmen. Er was ook geen aanduiding hoe hard de airco blaast en hoe warm deze blaast. De experts merkten ook op dat er geen navigatie functie was voorzien en dat dit wel een vaak gebruikte functie is. 
-Tijdens het uitvoeren van de user tests bleek dat er veel onduidelijkheid was rond met de functie om de airco te regelen. Om deze functie te bedienen was er telkens het meeste tijd nodig, dit kwam omdat de functie in een menu zit die geopend moet worden. Voor sommige gebruikers was het ook moeilijk om de menu te sluiten als deze klaar waren de airco aan te passen.
+Uit de expert reviews kwamen er werkpunten naar boven. De plaatsing van de knoppen
+was niet logisch, de stoelverwarming van de bestuurder stond links onder en die van de
+passagier stond links boven. De expert gaf advies om dit te veranderen. De bestuurder
+zetelverwarming komt links boven en de passagier rechts boven. Voor beide experts was
+het ook niet duidelijk dat er onderliggende menu’s waren, zoals bij de bediening van de
+airco. Dit onderliggend menu maakt het mogelijk om andere functies aan te klikken en
+werd ervaren als onoverzichtelijk. Dit kan worden opgelost door de niet gebruikte
+knoppen te dimmen wanneer de gebruiker in een menu werkt. Er was ook geen
+aanduiding over temperatuur of intensiteit van blazen. De experts merkten op dat
+ondanks dat de airco een veelvuldig gebruikte functie is, er geen navigatie naar deze
+airco functie aanwezig is. Tijdens het uitvoeren van de user tests bleek dat er veel
+onduidelijkheid was rond het instellen van de gewenste temperatuur. Het duurt lang
+alvorens je de instelling kan wijzigen omdat je moet doorklikken naar onderliggende
+menu's. Voor sommige gebruikers was het sluiten van de menu's niet evident.
 
 ### Conclusies & implicaties
-Bij de bediening van de Airco is het vaak onduidelijk hoe het precies werkt en is de bediening met de knoppen niet zo vlot, een optie om dit vlotter te laten werken is door de omstaande functies zwart te maken en de bediening van de AC via de draaiknop te laten verlopen. Er moet ook een duidelijk zichtbare temperatuur en blaashardheid aangegeven worden. Er kan ook een navigatie functie toegevoegd worden dit kan eventueel met vooraf ingestelde adressen die dan op een knop in die menu geprogrammeerd staan. Verder willen we de locatie van de knoppen op een logischere positie rangschikken en de feedback duidelijker laten verlopen.
+De bediening van de Airco was onduidelijk. De bediening met de knoppen ging niet
+vlot. Een mogelijke oplossing kan zijn om de omstaande functies zwart te maken en de
+bediening van de AC via de draaiknop te laten verlopen. Er moet ook een duidelijk
+zichtbare temperatuur en blaasintensiteit aangegeven worden. Er kan ook een navigatie
+functie toegevoegd naar de AC. Dit kan eventueel met vooraf ingestelde adressen die
+dan op een knop in die menu geprogrammeerd staan. Verder willen we de locatie van de
+knoppen op een logischere positie rangschikken. Ook de feedback moet duidelijker laten
+verlopen.
 
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/d04bf094-b426-42df-b8e7-d7951fe5ada6)
 
@@ -453,38 +506,77 @@ Dit onderzoek leid tot een paar product requirements:
 
 ## Develop 3: Human Senses
 ### Doelstellingen
-Tijdens de laatste develop fase worden de laatste aanpassingen aan het prototype gemaakt op basis van al de eerder verzamelde informatie uit de vorige fases. Tijdens deze fase werd er gefocust op de verschillende manieren om een functie uit te voeren en de feedback die een gebruiker krijgt bij het gebruiken ven functies.  Dit gebeurde door een hiërarchische taakanalyse op te stellen en een verbeterd prototype te maken met protopie waarbij we opnieuw user tests afnemen.
-Het doel is om een finaal en geoptimaliseerd prototype van de knoppen te bekomen.
+Tijdens de laatste develop fase worden de laatste aanpassingen aan het prototype
+gemaakt op basis van al de eerder verzamelde informatie uit de vorige fases. Tijdens
+deze fase werd er gefocust op de verschillende manieren om een functie uit te voeren
+en de feedback die een gebruiker krijgt bij het gebruiken ven functies. Dit gebeurde
+door een hiërarchische taakanalyse op te stellen en een verbeterd prototype te maken
+met protopie waarbij we opnieuw user tests afnemen. Het doel is om een finaal en
+geoptimaliseerd prototype van de knoppen te bekomen.
 
 ### Materiaal & methoden
-Als eerste stap werd er een funtieboom gemaakt om de verschillende handelingen in kaart te brengen in de verschillende situaties en om dan een gepasten feedbackt te voorzien bij de handelingen.
+Als eerste stap werd er een functieboom gemaakt om de verschillende handelingen
+in kaart te brengen in de verschillende situaties. Er is bij iedere handeling een
+vorm van feedback voorzien die hiirbij past.
 
 [Taakanalyse](https://lucid.app/lucidspark/a29f5345-b2c6-4360-82b3-dcbd95d4308d/edit?beaconFlowId=8583B9BEC7D35FA3&invitationId=inv_679c655a-8b6a-4bfd-9d54-b0bca86bb100&page=0_0#)
 ![Taakanalyse](https://github.com/arneslos/UCD_SEM1/assets/159801398/79563014-12a5-45b4-a089-6af5ac1e5729)
 
 **De belangrijkste waarneming uit de functieboom:** 
-Voor elke functie hebben we minimaal 2 mogelijkheden hoe deze bedienent kan worden: aan de hand van de spraakherkenning of door een fysieke knop in te drukken. Hiernaast is er ook na elke bediening of statusverandering van de functie een manier van feedback door een geluid en een verandering van kleur. 
+Voor elke functie hebben we
+minimaal 2 mogelijkheden hoe deze bediend kan worden. Door spraakherkenning of
+door een fysieke knop in te drukken. Hiernaast is er ook na elke bediening of
+statusverandering van de functie, een manier van feedback door een geluid en een
+verandering van kleur.
 
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/3bacb924-593b-4120-9d00-ac40e758aa1c)
 
-Om het aangepaste prototype te testen werd er gebruik gamaakt van een nieuw prototype. Er werd een frame ge-3D-print om een gsm in te monteren, bij dit prototype werd er ook een draaiknop toegevoegd. Er werd ook gekozen om met protopie te werken omdat dit programma meer opties biedt op het vlak van feedback en input. De layout van de knoppen werd aangepast op basis van de feedback in de vorige fase. Er werd ook voor een visuele feedback en audio aangezien de gebruikers hiermee moeite hadden in de vorige test. Er werd ook een navigatiefunctie toegevoegd. Deze functie heeft een paar vooraf ingestelde adressen om ze tijdens het rijden snel in te stellen, als de bestuurder een ander adres wilt berijken kan deze dat ingeven aan de hand van de spraakbediening. De airco functie is ook bijgewerkt zodat deze aan of uit gaat als de knop wordt ingerdukt en er er een menu tevoorschijn komt als deze ingedrukt wordt gehouden. In deze menu krijgt de bestuurder de opties om de blaas intensiteit te verhogen of te verlagen en ook om de temperatuur te verhogen of te verlagen. De temperatuur wordt ook duidelijk weergegeven.
-Dit concept wordt weer getest aan de hand van een wizard of ozz scenario. De gebruiker wordt opnieuw gevraagd om zich in te beelden dat die aan het rijden is met een auto en om dan verschillende functies uit te voeren. Dit wordt twee keer gedaan, één keer waarbij de gebruiker de knoppen gebruikt om de functies te activeren en één keer waarbij de bebruiker de spraakbediening gebruikt om de functies te activeren. Bij beide testen wordt er bijgehouden hoeveel tijd de handeling in beslag neemt om later te vergelijken met elkaar.
+Om het aangepaste prototype te testen werd er gebruik gamaakt van een nieuw
+prototype. Er werd een 3D-print frame gemaakt om een gsm in te monteren Bij dit
+prototype werd er ook een draaiknop toegevoegd. Door met protopie zijn er meer
+opties op het vlak van feedback en input. De layout van de knoppen werd aangepast op
+basis van de feedback in de vorige fase. Er werd ook voor een visuele feedback en audio
+gekozen. Daar de gebruikers hiermee moeite hadden in de vorige test. Ook een
+navigatiefunctie is toegevoegd. Deze functie heeft een paar vooraf ingestelde adressen
+om ze tijdens het rijden snel in te stellen, als de bestuurder een ander adres wilt berijken
+kan deze dat ingeven aan de hand van de spraakbediening. De airco functie is ook
+bijgewerkt zodat deze aan of uit gaat als de knop wordt ingerdukt en er er een menu
+tevoorschijn komt als deze ingedrukt wordt gehouden. In deze menu krijgt de
+bestuurder de opties om de blaas intensiteit te verhogen of te verlagen en ook om de
+temperatuur te verhogen of te verlagen. De temperatuur wordt ook duidelijk
+weergegeven. Dit concept wordt weer getest aan de hand van een wizard of ozz
+scenario. De gebruiker wordt opnieuw gevraagd om zich in te beelden dat die aan het
+rijden is met een auto en om dan verschillende functies uit te voeren. Dit wordt twee
+keer gedaan, één keer waarbij de gebruiker de knoppen gebruikt om de functies te
+activeren en één keer waarbij de bebruiker de spraakbediening gebruikt om de functies
+te activeren. Bij beide testen wordt er bijgehouden hoeveel tijd de handeling in beslag
+neemt om later te vergelijken met elkaar.
 
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/b700a3a4-81bc-4a57-8edd-a3c2ba653c7c)
 
 
 ### Resultaten
 
-Na het testen met dit prototype op de twee verschillende manieren van input werd er waargenomen dat de test met de test spraakbediening merkelijk langer duurt dan de test waarbij de knoppen gebruikt werden. Dit komt omdat een functie enkel met spraakbediening gebruikt kan worden door eerst op de spreek knop te duwen en daarna de boodschap in te spreken.
+Na het testen met dit prototype op de twee verschillende manieren van input werd er
+waargenomen dat de test met de test spraakbediening merkelijk langer duurt dan de
+test waarbij de knoppen gebruikt werden. Dit komt omdat een functie enkel met
+spraakbediening gebruikt kan worden door eerst op de spreek knop te duwen en
+daarna de boodschap in te spreken.
+
 - De gemiddelde tijd nodig voor 1 functie te bedienen via een knop =	0.774 s 
 - De gemiddelde tijd nodig voor 1 functie te bedienen via de spraakherkenning =	3.132 s 
 
-Tijdens het testen met het prototype waren voor al de gebruikers de bediening van de functies duidelijk behalve die van de airco, bij een paar gebruikers was er verwarring toen deze de blaasintensiteit of de temperatuur moesten aanpassen. Dit kwam doordat deze functies in een menu zaten die tevoorschijn kwam bij het ingedrukt houden van deze knop. Maar toen de gebruiker verteld werd hoe de functie gebruikt moest worden was dit geen probleem meer later in de test. 
+Tijdens het testen met het prototype waren voor al de gebruikers de bediening van de
+functies duidelijk. Behalve de bediening van de airco, hier was er verwarring toen deze
+de blaasintensiteit of de temperatuur moesten aanpassen. Met een korte opleiding,
+was het probleem weggewerkt.
 
 
 ### Conclusies & implicaties
-Uit de test zien we dat de tijd die nodig is om een functie te bedienen aan de hand van spraakherkenning 3 a 4 keer langer duurt dan via een knop. Wat we wel duidelijk als feedback van de testpersonen terugkregen is dat voor iemand die geen ervaring heeft met het systeem het veel gemakkelijker is om de functie te bedienen met je stem. 
-Hierdoor wordt toch aangeraden om de mogelijkheid te behouden om de funties te bedienen met je stem.
+Uit de test zien we dat de tijd die nodig is om een functie te bedienen aan de hand van
+spraakherkenning 3 a 4 keer langer duurt dan via een knop. De feedback van de
+testpersonen was het systeem veel gebruiksvriendelijker is als je de functie gebruikt via
+stembediening. Om deze reden is er gekozen om de stembediening te behouden.
 
 #### Product Requirements
 Dit onderzoek leid tot een paar product requirements:

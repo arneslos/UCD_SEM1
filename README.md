@@ -580,6 +580,12 @@ Dit onderzoek leid tot een paar product requirements:
 
 
 ## Finale conclusie
+[Product Video](https://youtu.be/vIWIUqFRspU)
+
+
+
+
+
 
 ## Bronnen
 (Nws, 2021b) : Nws, V. (2021, 11 maart). Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: “Europese regels nodig”. vrtnws.be.

@@ -267,7 +267,7 @@ oorzaak bekend is.
 Door de individueel onderzoeken samen te voegen ontstonden er meer invalshoeken over het
 concept, hierdoor kwamen er ook meer bevestiging van de gekozen oplossingen/ concept. 
 
-## Methdologie semester 2
+## Methdologie semester 1 + 2
 
 In het tweede semester is er ingezoomd in het project op de bediening van de functies
 met de acht knoppen. Tijdens het eerste simester werd er gebruik gemaakt van de
@@ -545,6 +545,8 @@ activeren en één keer waarbij de bebruiker de spraakbediening gebruikt om de f
 te activeren. Bij beide testen wordt er bijgehouden hoeveel tijd de handeling in beslag
 neemt om later te vergelijken met elkaar.
 
+[Protopie](https://cloud.protopie.io/p/15cfd1d4a1dbf0fc98e03a7b)
+
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/b700a3a4-81bc-4a57-8edd-a3c2ba653c7c)
 
 
@@ -623,3 +625,4 @@ https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie
     - 5.3.1 [protocol](https://docs.google.com/document/d/1J2uT2bz0IiTtfkOOzEpJFHWi2FQ4PWFlR1IyTbEtWrE/edit?usp=sharing)
     - 5.3.2 [report](https://docs.google.com/document/d/1YVlJD95k1_EuGTGHB7vhReXmIWZ4h71dN8CKy2xkBy4/edit?usp=sharing)
     - 5.3.3 [Taakanalyse](https://lucid.app/lucidspark/a29f5345-b2c6-4360-82b3-dcbd95d4308d/edit?beaconFlowId=8583B9BEC7D35FA3&invitationId=inv_679c655a-8b6a-4bfd-9d54-b0bca86bb100&page=0_0#)
+    - 5.3.4 [Protopie](https://cloud.protopie.io/p/15cfd1d4a1dbf0fc98e03a7b)

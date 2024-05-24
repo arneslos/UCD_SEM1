@@ -591,11 +591,15 @@ https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie
 
 4 Discovery
   4.1 Design Ethnography
+  
     4.1.1 [protocol](https://drive.google.com/file/d/1AdVoeefTQNNnNY_dTrXtfLXoVZDjnzLm/view?usp=drive_link)
+    
     4.1.2 [report](https://drive.google.com/file/d/19WuiClgjZXmVs2_SkV7SUFBsc1OCqoEU/view?usp=drive_link)
 
   4.2 Benchmarking
+  
     4.2.1 [protocol](https://drive.google.com/file/d/1jO9PHBk6aOt327gKf3AhZUQNIHvjKzZq/view?usp=drive_link)
+    
     4.2.2 [report](https://drive.google.com/file/d/1wbz_NgpH3xfFmPYBghqxKPV7KHRvV22M/view?usp=drive_link)
 
   4.3 Gebruiker Interviews

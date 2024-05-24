@@ -1,12 +1,12 @@
 # Buttonize
-Deze studie gaat over een vernieuwd dashboard ontwerp, die gebruik maakt van spraakherkenning, bedieningsknoppen, HUD (head-up-display) en een touchscreen dat wegklapt wanneer het voertuig in beweging komt.
+Deze studie gaat over een vernieuwd dashboard ontwerp, die gebruik maakt van spraakherkenning, bedieningsknoppen, HUD (head-up display) en een touchscreen dat wegklapt wanneer het voertuig in beweging komt.
 
 *Projectteam: Viktor Coopman, Arne Slos*
 
 2023 - 2024
 
 ## Samenvatting
-Bestuurders van wagens worden geconfronteerd met allerlei bedieningsfuncties tijdens het rijden. Deze kunnen een risico vormen omdat er minder aandacht gaat naar de weg en naar andere weggebruikers. Een groot deel van deze afleidingen worden veroorzaakt door schermen in de wagens. Deze zitten niet in het directe gezichtsveld van de bestuurder maar ergens in het midden van het dashboard. Daarbovenop is er de interactie via touch technologie, wat een extra afleiding kan geven omdat de bestuurder het stuur niet meer met beide handen vasthoudt. 
+Bestuurders van wagens worden geconfronteerd met allerlei bedieningsfuncties tijdens het rijden. Deze kunnen een risico vormen omdat er minder aandacht gaat naar de weg en naar andere weggebruikers. Een groot deel van deze afleidingen worden veroorzaakt door schermen in de wagens. Deze zitten niet in het directe gezichtsveld van de bestuurder maar ergens in het midden van het dashboard. Daarbovenop is er de interactie via touch technologie, wat een extra afleiding kan geven, omdat de bestuurder het stuur niet meer met beide handen vasthoudt. 
 
 Dit probleem is verder onderzocht. De gebruikte technieken zijn: design ethnography (shadowing) door de functies die het meest gebruikt worden te rangschikken, benchmarking met de SOTA te onderzoeken, een literature review en interviews.
 
@@ -28,13 +28,13 @@ Het doel van dit eindonderzoek is het creëren van een simulatie van een veilige
 Dit onderzoek wordt uitgevoerd aan de UGent te Kortrijk in samenwerking met Granstudio.
 
 
-## Methdologie
+## Metohdologie
 De toegepaste methodologie is gebaseerd op Roozenburg & Eekels (1995). 
 Deze methodologie bestaat uit een aantal fasen. Tijdens de eerste fase wordt het probleem gedefinieerd. In dit onderzoek is het probleem: de aanwezigheid van aanraakschermen in wagens zorgt voor afleidingen. 
 
 Gedurende de tweede fase wordt er op verschillende manieren informatie verzameld. Tijdens deze fase in het onderzoek zijn er gebruiker interviews, een design ethnography, een benchmarkstudie en een literatuurstudie uitgevoerd. 
 
-In de derde fase wordt de informatie die verzameld is verwerkt. De antwoorden van het interview, opmerkingen bij het design ethnography worden geanalyseerd en omgezet naar potentiele verbeteteringen. 
+In de derde fase wordt de informatie die verzameld is verwerkt. De antwoorden van het interview, opmerkingen bij het design ethnography worden geanalyseerd en omgezet naar potentiële verbeteringen.
 
 De vierde fase is de fase waarin het probleem wordt geherdefinieerd aan de hand van de bekomen informatie. In het geval van dit project werd de geherdefinieerde probleemstelling: het gebruiken van aanraakschermen tijdens het rijden is gevaarlijk omdat het voor afleiding zorgt en de aandacht voor de weg verminderd. 
 
@@ -44,7 +44,7 @@ De zesde fase is de idee generatie fase, hier worden al de mogelijke ideeën ver
 
 In de zevende fase worden er uit de gegenereerde oplossingen een paar gekozen met veel potentieel. Deze worden een verder uitgewerkt om de interessantste en haalbare oplossingen te kunnen selecteren.
 
-In de achtste fase wordt er één concept gekozen als de oplossing. Deze wordt dan volledig uitgewerkt. In het geval van dit concept: een dashboard met een scherm dat wegklapt als de wagen begint met rijden.  Op dit moment wordt al de essentiële informatie op de voorruit geprojecteerd met een heads up display systeem. Er zijn enkele programmeerbare knoppen aanwezig om zelfgekozen functies te bedienen.
+In de achtste fase wordt er één concept gekozen als de oplossing. Deze wordt dan volledig uitgewerkt. In het geval van dit concept: een dashboard met een scherm dat wegklapt als de wagen begint met rijden.  Op dit moment wordt al de essentiële informatie op de voorruit geprojecteerd met een head-up display systeem. Er zijn enkele programmeerbare knoppen aanwezig om zelfgekozen functies te bedienen.
 
 In de negende fase wordt de PRD verder uitgewerkt met de nieuwe informatie na het vastleggen van het concept.
 
@@ -58,11 +58,11 @@ In de elfde fase wordt het finaal concept getest.
 | 2 | collect information | Interviews, benchmarking, literature review en design ethnography (shadowing) afnemen  |
 | 3 | analyse information | Interviews, benchmarking, literature review en design ethnography (shadowing) interpreteren |
 | 4 | reformulate the problem statement | Het gebruiken van aanraakschermen tijdens het rijden is gevaarlijk omdat het voor afleiding zorgt en de aandacht voor de weg verminderd. |
-| 5 | define first design requirements | Opstarten van een PRD (nog niet gedetaileerd). |
+| 5 | define first design requirements | Opstarten van een PRD (nog niet gedetailleerd). |
 | 6 | generate ideas | Ideeen genereren op verschillende manieren. |
 | 7 | develop ideas | De sterkste ideeen/ concepten uitkiezen om verder uit te werken |
 | 8 | choose concept | Een ‘finaal’ concept kiezen, in dit geval: de interacties in een wagen laten verlopen met knoppen en een HUD, een aanraakscherm dat wegklapt al de wagen rijdt. |
-| 9 | define secondarydesign requirements | De PRD verder uitwerken zodat deze beter aansluit bij het gekozen concept. |
+| 9 | define secondarydesign requirements | De PRD verder uitwerken, zodat deze beter aansluit bij het gekozen concept. |
 | 10 | detailed development of concept | Kiezen hoe de concepten gemaakt en getest kunnen worden. |
 | 11 | testing concepts against design requirements | De concepten testen. |
 
@@ -78,7 +78,7 @@ Aan de hand van verschillende onderzoeksmethoden zoals interviews, design ethnog
 - Welke technologieën zijn er nu op de markt om de gevaren van schermen te verminderen?
 
 ### Materiaal & methoden
-Om de problemen van gebruikers vast te stellen zijn er gebruikers geinterviewd, artikels opgezocht (literature review) en een design ethnography uitgevoerd (bijlage 2). Om te vergelijken wat er al op de markt is, is er een benchmark studie opgezet. De interviews en design ethnography werden elk bij twee personen afgenomen.
+Om de problemen van gebruikers vast te stellen zijn er gebruikers geïnterviewd, artikels opgezocht (literature review) en een design ethnography uitgevoerd (bijlage 2). Om te vergelijken wat er al op de markt is, is er een benchmark studie opgezet. De interviews en design ethnography werden elk bij twee personen afgenomen.
 
 Bij het benchmark onderzoek werd er gekeken naar het dashboard die nu op de markt zijn van verschillende autofabrikanten. Er werd ook gekeken naar hoe de functies aangestuurd worden in deze interieurs.
 
@@ -105,16 +105,16 @@ handrem, dit kan een knop zijn of een hendel.
 
 De interviews werden afgenomen om beter te begrijpen wat de bestuurder belangrijk vindt in
 een wagen, welke problemen er voorkomen en waarom deze er zijn. De veiligheidsfuncties
-worden als de belangrijste ervaren. Bijvoorbeeld: een waarschuwing geven als er een ander
+worden als de belangrijkste  ervaren. Bijvoorbeeld: een waarschuwing geven als er een ander
 voertuig nadert. Op de tweede plaats kwamen functies die het rijden makkelijker maken, zoals
-cruise control en lane keeping aid. De bestuurders vonden de entertainmentfuncties zoals de
+cruisecontrol en lane keeping aid. De bestuurders vonden de entertainmentfuncties zoals de
 radio of Android Auto/ Apple CarPlay om muziek af te spelen de nice to have functies. Ook de
 navigatieapp werd ervaren als een belangrijke functie. De bestuurders gaven aan dat de
 meeste afleiding ontstond bij het aanpassen van de entertainmentfuncties, het instellen van
 het navigatiesysteem en het veranderen van de muziek. De bestuurders ondervonden
 problemen bij functies die “een niveau dieper” in de menu’s zitten. Het gevolg hiervan is dat
 de bestuurder langer is afgeleid. Bij sommige wagens is er geen feedback als er een functie
-wordt aangklikt, dan moet de bestuurder naar het scherm of de knop kijken om te verifieren
+wordt aangeklikt, dan moet de bestuurder naar het scherm of de knop kijken om te verifiëren
 dat de gewenste functie actief wordt.
 Om te weten te komen hoe bestuurders de schermen in een wagen gebruiken werd er gebruik
 gemaakt van shadowing. De bestuurder werd geobserveerd terwijl deze rond reed via een
@@ -133,8 +133,8 @@ werken met een scherm in het midden van de wagen. Vanaf het moment dat de wagen 
 dit wel een gevaar, dan wordt de bestuurder afgeleid. De schermen zijn dus niet alleen het
 gevaar, maar de plaats waar de informatie wordt weergegeven zorgt voor een grotere invloed
 op de afleiding. Dit probleem kan worden opgelost door het scherm te doen wegklappen of
-schuiven en de informatie te projecteren met een heads up display. Als de informatie met een
-groot heads up display op een eenvoudige en ordelijke manier kan worden weergegeven voor
+schuiven en de informatie te projecteren met een head-up display. Als de informatie met een
+groot head-up display op een eenvoudige en ordelijke manier kan worden weergegeven voor
 de bestuurder zal dit ervoor zorgen dat de bestuurder meer focus heeft op de weg. Het
 scherm in een wagen wordt vaak gebruikt om de functies te bedienen. Als dit scherm niet
 meer aanwezig is moet er een andere manier aangebracht worden om deze functies te
@@ -145,7 +145,7 @@ is er ook een feedback die de bestuurder krijgt tijdens het bedienen van de func
 ## Definition
 
 
-### Doestellingen
+### Doelstellingen
 In de definition fase van het dashboard design worden twee aspecten van het nieuwe
 dashboard onderzocht:
 
@@ -161,8 +161,8 @@ Ook werd er onderzocht op welke manier de interactie met het aanraakscherm, wann
 wagen in stilstand is, op een zo vlot mogelijke manier kan gebeuren.
 
 ### Materiaal & methoden
-Om te onderzoeken hoe de lay-out van de heads up display ingedeeld moet worden zijn er
-twee lay-outs uitgewerkt. De informatie die op de heads up display wordt geprojecteeerd werd
+Om te onderzoeken hoe de lay-out van de head-up display ingedeeld moet worden zijn er
+twee lay-outs uitgewerkt. De informatie die op de head-up display wordt geprojecteerd werd
 bepaald aan de hand van de volgende vraag uit het interview: wat is de belangrijkste
 informatie die moet aangegeven worden tijdens het rijden? De bestuurders ervaarden:
 snelheidsaanduiding, richting aanwijzers, de afstand die nog gereden kan worden, de
@@ -189,18 +189,18 @@ midden van het scherm wordt de navigatie weergegeven aan de hand van een pijl di
 de weg zweeft en in de juiste richting wijst. Op deze pijl wordt ook de snelheid weergegeven.
 
 Om te onderzoeken op welke manier de standaard configuratie van het aanraakscherm en de
-knoppen wordt geconfigureert worden er twee prototypes gebruikt, deze prototypes hebben
-elk een verschillende layout maar beshikken over dezelfde functies bij benchmarking zijn
+knoppen wordt geconfigureerd worden er twee prototypes gebruikt, deze prototypes hebben
+elk een verschillende lay-out maar beschikken over dezelfde functies bij benchmarking zijn
 bepaald. Het enige grote verschil tussen beide opstellingen is dat er bij concept één gebruik
 gemaakt word van een draaiknop en bij concept twee knoppen om het volume te verhogen.
 
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/726627ac-d046-4e1f-8918-09e73b7917ec) ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/79c66e82-f24b-4365-a45e-614a7639b413)
 
-Om de gebuiker kennis te laten maken met de prototypes mag deze verschillende knoppen
-aanwijzen en hier de functie van bepalen. Daarna word dit gecontroleerd en word er bekend
+Om de gebruiker kennis te laten maken met de prototypes mag deze verschillende knoppen
+aanwijzen en hier de functie van bepalen. Daarna wordt dit gecontroleerd en wordt er bekend
 gemaakt of dit juist of fout was.
-Vervolgens wordt de gebruiker gevraagd om een bepaalde knop in te drukken of funcite te
-activeren. De tijd werd geregistreed. Dit werd voor bijde opstellingen getest.
+Vervolgens wordt de gebruiker gevraagd om een bepaalde knop in te drukken of functie te
+activeren. De tijd werd geregistreerd. Dit werd voor beide opstellingen getest.
 Deze tijdsindicaties geven een objectief beeld welke configuratie het snelst is bij gebruik en
 dus ook voor een kortere periode een verminderde aandacht geven. Op het einde van het
 onderzoek werd de mening van de gebruiker gevraagd over welke opstelling er verkozen
@@ -230,8 +230,8 @@ Bij de beide opstellingen was er een opmerking dat de vakken waarin de informati
 ![image](https://github.com/arneslos/UCD_SEM1/assets/159801398/a69e4ea7-e598-486e-829e-cddb43040e23)
 
 ### Conclusies & implicaties
-Om een goede en overzichtelijke heads up display te bekomen moet al de informatie op een
-overzichtelijke manier worden weergegeven. De oplossing is door de informatie bij niet
+Om een goede en overzichtelijke head-up display te bekomen moet al de informatie op een
+overzichtelijke manier worden weergegeven. De oplossing is door de informatie waneer deze niet wordt gebruikt
 begruik klein en aan de buitenkanten weer te geven. Op het moment dat de bestuurder een
 functie wil gebruiken wordt dit vak groter en komt centraal te staan.
 Om een vlotte configuratie van knoppen en aanraakscherm te bekomen is het belangrijk dat
@@ -243,7 +243,7 @@ aanraakscherm of spraakherkenning.
 
 ## Bill of materials
 
-- Plaat plexiglas om een heads up display te maken
+- Plaat plexiglas om een head-up display te maken
 - Knoppen voor de programmeerbare functies
 - Spraak sensor om de stembediening te doen werken
 - ProtoPie
@@ -272,11 +272,11 @@ vragen wat het probleem is. Door te blijven doorvragen waarom het probleem er is
 meer inzicht over de oorzaak bekomen. Het probleem kan pas aangepakt worden als de
 oorzaak bekend is.
 Door de individueel onderzoeken samen te voegen ontstonden er meer invalshoeken over het
-concept hierdoor kwamen er ook meer bevestiging van de gekozen oplossingen/ concept. 
+concept, hierdoor kwamen er ook meer bevestiging van de gekozen oplossingen/ concept. 
 
 ## Methdologie semester 2
 
-In het tweede semester is er ingezoomd in het project op de bediening van de functies met de acht knoppen. Tijdens het eerste simester werd er gebruik gemaakt van de methodologie van Roozenburg & Eekels. Deze methodologie heeft een grote overeenkomst met de een dubble diamond methodologie waar er in de tweede en in de zesde fase word gedivergeerd. In de zesde fase word er twee keer gedivergeerd over twee aspecten van het ontwerp. In de vierde en achtste fase wordt geconvergeerd. In het tweede semester word er nog een laatste maal gedivergeerd en geconvergeerd. Dit gebeurd in 3 develop fases waar er telkens naar een ander aspect gekeken word om verbeteringen van het product te onderzoeken. In de eerste fase word de focus gelegd op lichaamsgerelateerde parameters. In de tweede fase word er gefocust op de gebruiksvriendelijkheid van het product. In de derde en laatste fase word er onderzocht wat de verschillende mogelijke vormen van interactie zijn met het product. Het doel is om na het doorlopen van deze laatste diamond een finaal concept te bekomen voor de bediening van de functies in de wagen tijdens het rjijden.
+In het tweede semester is er ingezoomd in het project op de bediening van de functies met de acht knoppen. Tijdens het eerste semester werd er gebruik gemaakt van de methodologie van Roozenburg & Eekels. Deze methodologie heeft een grote overeenkomst met de een dubble diamond methodologie waar er in de tweede en in de zesde fase word gedivergeerd. In de zesde fase word er twee keer gedivergeerd over twee aspecten van het ontwerp. In de vierde en achtste fase wordt geconvergeerd. In het tweede semester word er nog een laatste maal gedivergeerd en geconvergeerd. Dit gebeurd in 3 develop fases waar er telkens naar een ander aspect gekeken word om verbeteringen van het product te onderzoeken. In de eerste fase word de focus gelegd op lichaamsgerelateerde parameters. In de tweede fase word er gefocust op de gebruiksvriendelijkheid van het product. In de derde en laatste fase word er onderzocht wat de verschillende mogelijke vormen van interactie zijn met het product. Het doel is om na het doorlopen van deze laatste diamond een finaal concept te bekomen voor de bediening van de functies in de wagen tijdens het rjijden.
 
 ![Tijdlijn](https://github.com/arneslos/UCD_SEM1/assets/159801398/dfa6eb69-5282-438c-b359-6e149e888955)
 

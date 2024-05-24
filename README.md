@@ -585,22 +585,22 @@ Dit onderzoek leid tot een paar product requirements:
 https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keergevaarlijker-dan-r/#:~:text=%2D%2D%3A%2D%2D-,Aanraakschermen%20in%20je%20auto%20bedienen%20drie%20keer%20gevaarlijker%20dan%20rijden,het%20risico%20op%20een%20ongeval.
 
 ## Bijlagen
-1 (Google drive): https://drive.google.com/drive/folders/1x8gPw4AJ5K4TxQPy2E_7yjYqFXD9Rf43?usp=sharing
-2 Figma: https://www.figma.com/file/UazHZrtgUNHXp7b5WrkCnB/Untitled?type=design&nodeid=0%3A1&mode=design&t=L9cifeomLyC9PtCw-1
-3 Miro: https://miro.com/welcomeonboard/aTl3Sm0yb1lUWmlzU3RwNUQ1ZjByam1nNVM3S0FTNWNCUkhjcFlodUZhdWphd0pWZUpiRG9HanNNSENxYWcwdnwzMDc0NDU3MzY0ODc4MTMxMTU4fDI=?share_link_id=531594994039 
+- 1 (Google drive): https://drive.google.com/drive/folders/1x8gPw4AJ5K4TxQPy2E_7yjYqFXD9Rf43?usp=sharing
+- 2 Figma: https://www.figma.com/file/UazHZrtgUNHXp7b5WrkCnB/Untitled?type=design&nodeid=0%3A1&mode=design&t=L9cifeomLyC9PtCw-1
+- 3 Miro: https://miro.com/welcomeonboard/aTl3Sm0yb1lUWmlzU3RwNUQ1ZjByam1nNVM3S0FTNWNCUkhjcFlodUZhdWphd0pWZUpiRG9HanNNSENxYWcwdnwzMDc0NDU3MzY0ODc4MTMxMTU4fDI=?share_link_id=531594994039 
 
-4 Discovery
-  4.1 Design Ethnography
+- 4 Discovery
+  - 4.1 Design Ethnography
   
-    4.1.1 [protocol](https://drive.google.com/file/d/1AdVoeefTQNNnNY_dTrXtfLXoVZDjnzLm/view?usp=drive_link)
+    - 4.1.1 [protocol](https://drive.google.com/file/d/1AdVoeefTQNNnNY_dTrXtfLXoVZDjnzLm/view?usp=drive_link)
     
-    4.1.2 [report](https://drive.google.com/file/d/19WuiClgjZXmVs2_SkV7SUFBsc1OCqoEU/view?usp=drive_link)
+    - 4.1.2 [report](https://drive.google.com/file/d/19WuiClgjZXmVs2_SkV7SUFBsc1OCqoEU/view?usp=drive_link)
 
-  4.2 Benchmarking
+  - 4.2 Benchmarking
   
-    4.2.1 [protocol](https://drive.google.com/file/d/1jO9PHBk6aOt327gKf3AhZUQNIHvjKzZq/view?usp=drive_link)
+    - 4.2.1 [protocol](https://drive.google.com/file/d/1jO9PHBk6aOt327gKf3AhZUQNIHvjKzZq/view?usp=drive_link)
     
-    4.2.2 [report](https://drive.google.com/file/d/1wbz_NgpH3xfFmPYBghqxKPV7KHRvV22M/view?usp=drive_link)
+    - 4.2.2 [report](https://drive.google.com/file/d/1wbz_NgpH3xfFmPYBghqxKPV7KHRvV22M/view?usp=drive_link)
 
   - 4.3 Gebruiker Interviews
     - 4.3.1 [protocol](https://docs.google.com/document/d/1e-_irgPuqvijx_TaQfB4gYeBgC1f_Bq4/edit?usp=drive_link&ouid=107004077216728895200&rtpof=true&sd=true)

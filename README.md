@@ -28,8 +28,8 @@ Het doel van dit eindonderzoek is het creëren van een simulatie van een veilige
 Dit onderzoek wordt uitgevoerd aan de UGent te Kortrijk in samenwerking met Granstudio.
 
 
-## Metohdologie
-De toegepaste methodologie is gebaseerd op Roozenburg & Eekels (1995). 
+## Metohdologie Sem. 1
+De toegepaste methodologie tijdens het eerste semester is gebaseerd op Roozenburg & Eekels (1995). 
 Deze methodologie bestaat uit een aantal fasen. Tijdens de eerste fase wordt het probleem gedefinieerd. In dit onderzoek is het probleem: de aanwezigheid van aanraakschermen in wagens zorgt voor afleidingen. 
 Gedurende de tweede fase wordt er op verschillende manieren informatie verzameld. Tijdens deze fase in het onderzoek zijn er gebruiker een design ethnography (bijlage 4.1), een benchmarkstudie (bijlage 4.2), interviews (bijlage 4.3) en een literatuurstudie (bijlage 4.4) uitgevoerd. 
 In de derde fase wordt de informatie die verzameld is verwerkt. De antwoorden van het interview, opmerkingen bij het design ethnography worden geanalyseerd en omgezet naar potentiële verbeteringen.

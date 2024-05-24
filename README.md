@@ -31,19 +31,12 @@ Dit onderzoek wordt uitgevoerd aan de UGent te Kortrijk in samenwerking met Gran
 ## Metohdologie
 De toegepaste methodologie is gebaseerd op Roozenburg & Eekels (1995). 
 Deze methodologie bestaat uit een aantal fasen. Tijdens de eerste fase wordt het probleem gedefinieerd. In dit onderzoek is het probleem: de aanwezigheid van aanraakschermen in wagens zorgt voor afleidingen. 
-
-Gedurende de tweede fase wordt er op verschillende manieren informatie verzameld. Tijdens deze fase in het onderzoek zijn er gebruiker interviews, een design ethnography, een benchmarkstudie en een literatuurstudie uitgevoerd. 
-
+Gedurende de tweede fase wordt er op verschillende manieren informatie verzameld. Tijdens deze fase in het onderzoek zijn er gebruiker een design ethnography (bijlage 4.1), een benchmarkstudie (bijlage 4.2), interviews (bijlage 4.3) en een literatuurstudie (bijlage 4.4) uitgevoerd. 
 In de derde fase wordt de informatie die verzameld is verwerkt. De antwoorden van het interview, opmerkingen bij het design ethnography worden geanalyseerd en omgezet naar potentiële verbeteringen.
-
 De vierde fase is de fase waarin het probleem wordt geherdefinieerd aan de hand van de bekomen informatie. In het geval van dit project werd de geherdefinieerde probleemstelling: het gebruiken van aanraakschermen tijdens het rijden is gevaarlijk omdat het voor afleiding zorgt en de aandacht voor de weg verminderd. 
-
 In de vijfde fase wordt er een programma van eisen opgesteld. In dit programma van eisen worden al de specificaties van het uiteindelijke product vastgelegd, dit gebeurde aan de hand van een PRD (Product Requirements Document) (bijlage 1).
-
 De zesde fase is de idee generatie fase, hier worden al de mogelijke ideeën verzameld, deze ideeën kunnen van heel eenvoudig tot onmogelijk zijn. De vereiste is dat de ideeën een oplossing zijn voor het probleem. Dit gebeurde door verschillende dingen neer te schrijven en door schetsen te maken.
-
 In de zevende fase worden er uit de gegenereerde oplossingen een paar gekozen met veel potentieel. Deze worden een verder uitgewerkt om de interessantste en haalbare oplossingen te kunnen selecteren.
-
 In de achtste fase wordt er één concept gekozen als de oplossing. Deze wordt dan volledig uitgewerkt. In het geval van dit concept: een dashboard met een scherm dat wegklapt als de wagen begint met rijden.  Op dit moment wordt al de essentiële informatie op de voorruit geprojecteerd met een head-up display systeem. Er zijn enkele programmeerbare knoppen aanwezig om zelfgekozen functies te bedienen.
 
 In de negende fase wordt de PRD verder uitgewerkt met de nieuwe informatie na het vastleggen van het concept.
@@ -284,9 +277,9 @@ zesde fase wordt gedivergeerd. In de zesde fase wordt er twee keer gedivergeerd 
 twee aspecten van het ontwerp. In de vierde en achtste fase wordt geconvergeerd. In het
 tweede semester wordt er nog een laatste maal gedivergeerd en geconvergeerd. Dit
 gebeurt in drie develop fases waar er telkens naar een ander aspect gekeken wordt om
-verbeteringen van het product te onderzoeken. In de eerste fase wordt de focus gelegd
-op lichaamsgerelateerde parameters. In de tweede fase wordt er gefocust op de
-gebruiksvriendelijkheid van het product. In de derde en laatste fase wordt er onderzocht
+verbeteringen van het product te onderzoeken. In de eerste fase (bijlage 5.1) wordt de focus gelegd
+op lichaamsgerelateerde parameters. In de tweede fase(bijlage 5.2) wordt er gefocust op de
+gebruiksvriendelijkheid van het product. In de derde en laatste fase (bijlage 5.3) wordt er onderzocht
 wat de verschillende mogelijke vormen van interactie zijn met het product. Het doel is
 om na het doorlopen van deze laatste diamond een finaal concept te bekomen voor de
 bediening van de functies in de wagen tijdens het rijden.
@@ -326,7 +319,7 @@ dashboard dan de theoretisch berekende armlengte.
 
 
 ### Resultaten
-Na het berekenen (bijlage 5.1.1) van de waarde werd er een armlengte tot de vinger van 907
+Na het berekenen van de waarde werd er een armlengte tot de vinger van 907
 millimeter gevonden met een standaard deviatie van 47,59 millimeter volgens de
 populatie van Nederlandse volwassenen, zowel man als vrouw, tussen 20 en 60 jaar. Bij
 de eerste test werd er een probleem vastgesteld met de theoretische waarde. De
@@ -334,7 +327,7 @@ gegense uit de databank en de berekening is geanalyseerd. Er was een interpretat
 de lengte van de handpalm was twee maal verrekend. Bij de tweede poging is een
 aangepaste theoretische lengte van de handpalm toegepast. De afstand van de stoel
 tot het dashboard werd verminderd met de lengte van de handpalm. Met deze
-opstelling waren de testpersonen in staat om het dashboard aan te raken (bijlage 5.1.2). Na het testen
+opstelling waren de testpersonen in staat om het dashboard aan te raken. Na het testen
 van de knop grootte kan er besloten worden dat hoe groter de knop is hoe minder
 fouten er worden gemaakt. De knoppen zouden nog groter gemaakt kunnen worden
 maar dit kan dan weer voor meer afleiding zorgen aangezien het lcd knoppen zijn die

@@ -581,10 +581,15 @@ Dit onderzoek leid tot een paar product requirements:
 
 ## Finale conclusie
 [Product Video](https://youtu.be/vIWIUqFRspU)
+Na onze afgelopen weg zijn we tevreden met het resultaat al zijn er hier en daar toch nog onduidelijkheiden. Het is moeilijk in te schatten hoe dit systeem zal samenwerken met de rest van het dashboardconcept. In theorie lijkt het zeker mogelijk uit te voeren en ziet het er een meerwaarde uit aan de rijervaring van zowel bestuurder als passagier, maar theorie is nooit werkelijkheid en zou dit volledig eerst moeten worden uitgewerkt worden om daarna te beslissen of dit een product is die al dan niet op de markt kan gelanceerd worden. 
 
+Op vlak van vooronderzoek (sem.1) lijkt het ons zeker een goede en succesvolle manier om aan de hand van benchmarking, shadowing en interviews zelf het probleem dieper te onderzoeken. Hiermee krijg je naast een breder beeld over de problematiek ook een idee hoe andere ontwerpers en bedrijven hetzelfde idee op hun manier op te lossen. 
+Onze gebruikerstesten (sem.2) konden zeker nog geoptimaliseerd worden. We hebben zoveelmogelijk de echte situatie proberen nabootsen met zowel geluid, maar om volledig zeker te kunnen zijn over onze testen zouden deze moeten worden uitgevoerd in een rijdende wagen wat toch moeilijk uit te voeren is. 
+Ons product is zeker geen afgewerkt geheel, op vele gebieden kan er nog geoptimaliseerd worden zoals materiaal, interactie via fysieke knoppen wat initieel het doel was, samenwerking met HUD, etc.
 
+Als laatste is het ook niet altijd zeker dat dit concept effectief iets dat toekomstige klanten verkiezen boven een groot scherm in het midden van het dashboard. Doodadat dit concept gestart is uit het probleem van afleiding tijdens het rijden, wat ontdekt is door een Brits onderzoek en niet door de gebruikers zelf, is dit moeilijker in te schatten. 
 
-
+We willen ook graag iedereen bedanken die meegewerkt heeft bij dit onderzoek, zowel bij de testen als bij feedback. 
 
 
 ## Bronnen
@@ -632,3 +637,5 @@ https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie
     - 5.3.2 [report](https://docs.google.com/document/d/1YVlJD95k1_EuGTGHB7vhReXmIWZ4h71dN8CKy2xkBy4/edit?usp=sharing)
     - 5.3.3 [Taakanalyse](https://lucid.app/lucidspark/a29f5345-b2c6-4360-82b3-dcbd95d4308d/edit?beaconFlowId=8583B9BEC7D35FA3&invitationId=inv_679c655a-8b6a-4bfd-9d54-b0bca86bb100&page=0_0#)
     - 5.3.4 [Protopie](https://cloud.protopie.io/p/15cfd1d4a1dbf0fc98e03a7b)
+  - 5.4 Eind Ontwerp
+    - 5.4.1 [Product Video](https://youtu.be/vIWIUqFRspU)

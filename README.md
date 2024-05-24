@@ -326,7 +326,7 @@ dashboard dan de theoretisch berekende armlengte.
 
 
 ### Resultaten
-Na het berekenen van de waarde werd er een armlengte tot de vinger van 907
+Na het berekenen (bijlage 5.1.1) van de waarde werd er een armlengte tot de vinger van 907
 millimeter gevonden met een standaard deviatie van 47,59 millimeter volgens de
 populatie van Nederlandse volwassenen, zowel man als vrouw, tussen 20 en 60 jaar. Bij
 de eerste test werd er een probleem vastgesteld met de theoretische waarde. De
@@ -334,7 +334,7 @@ gegense uit de databank en de berekening is geanalyseerd. Er was een interpretat
 de lengte van de handpalm was twee maal verrekend. Bij de tweede poging is een
 aangepaste theoretische lengte van de handpalm toegepast. De afstand van de stoel
 tot het dashboard werd verminderd met de lengte van de handpalm. Met deze
-opstelling waren de testpersonen in staat om het dashboard aan te raken. Na het testen
+opstelling waren de testpersonen in staat om het dashboard aan te raken (bijlage 5.1.2). Na het testen
 van de knop grootte kan er besloten worden dat hoe groter de knop is hoe minder
 fouten er worden gemaakt. De knoppen zouden nog groter gemaakt kunnen worden
 maar dit kan dan weer voor meer afleiding zorgen aangezien het lcd knoppen zijn die
